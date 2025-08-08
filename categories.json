@@ -1,0 +1,14 @@
+[
+  { "categoryId": 1, "name": "Bijak" },
+  { "categoryId": 2, "name": "Cinta" },
+  { "categoryId": 3, "name": "Ciyeee" },
+  { "categoryId": 4, "name": "Friendzone" },
+  { "categoryId": 5, "name": "Galau" },
+  { "categoryId": 6, "name": "Lucu" },
+  { "categoryId": 7, "name": "Motivasi" },
+  { "categoryId": 8, "name": "Rindu" },
+  { "categoryId": 9, "name": "Romantis" },
+  { "categoryId": 10, "name": "Sedih" },
+  { "categoryId": 11, "name": "Toxic" },
+  { "categoryId": 12, "name": "Spesial" }
+]
