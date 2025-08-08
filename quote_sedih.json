@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "text": "Lucu ya, dulu kita hampir nggak bisa sehari aja tanpa ngobrol. Sekarang, seminggu pun kamu bisa tanpa kabar, dan aku cuma bisa diem sambil pura-pura kuat. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 2,
+    "text": "Kadang yang paling nyakitin itu bukan kehilanganmu, tapi nyadarin kalau aku udah nggak lagi jadi rumahmu. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 3,
+    "text": "Aku kira kita bakal lama, ternyata kita cuma singgah sebentar di hidup masing-masing. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 4,
+    "text": "Nggak ada yang lebih berat daripada pura-pura bahagia di depan orang, padahal hati rasanya hancur banget. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 5,
+    "text": "Aku selalu inget setiap detail tentang kamu, sedangkan kamu bahkan nggak inget lagi rasanya sayang sama aku. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 6,
+    "text": "Lucu ya, kita pernah saling janji nggak bakal ninggalin, tapi akhirnya aku yang nunggu sendirian di tempat kita janji itu. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 7,
+    "text": "Rasanya sakit banget liat kamu bisa bahagia tanpa aku, padahal aku di sini masih nungguin kabarmu. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 8,
+    "text": "Aku kira aku udah cukup buat kamu bertahan, ternyata aku cuma perhentian sementara. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 9,
+    "text": "Dulu kita ketawa tiap hari, sekarang aku cuma bisa ketawa di luar tapi nangis di dalam. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 10,
+    "text": "Yang paling sakit itu bukan karena ditinggal, tapi nyadar kalau ternyata aku nggak sepenting itu buat kamu. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 11,
+    "text": "Ada banyak hal yang pengen aku bilang, tapi akhirnya cuma jadi tangisan di bantal setiap malam. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 12,
+    "text": "Aku nggak nyalahin kamu pergi, aku cuma nyalahin diri sendiri kenapa terlalu percaya kita bisa selamanya. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 13,
+    "text": "Malam-malam panjang sekarang cuma diisi sama rasa hampa dan pertanyaan, kenapa kita bisa sejauh ini? 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 14,
+    "text": "Ternyata rasanya sakit banget, liat orang yang dulu bilang sayang sekarang senyum ke orang lain. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 15,
+    "text": "Aku kangen kita yang dulu, tapi kayaknya kamu udah nggak pernah kangen lagi. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 16,
+    "text": "Kadang aku pura-pura sibuk, cuma biar nggak terlalu mikirin rasa kehilangan ini. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 17,
+    "text": "Aku kira waktu bisa nyembuhin, tapi ternyata dia cuma bikin aku terbiasa sama rasa sakit ini. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 18,
+    "text": "Nggak ada yang nyiapin aku buat kehilanganmu secepat ini, semuanya terlalu tiba-tiba. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 19,
+    "text": "Lucu ya, aku masih nyimpen semua tentang kamu, tapi kamu bahkan udah buang aku dari ingatanmu. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 20,
+    "text": "Aku nggak tau harus gimana lagi, selain nulis rasa sakit ini sendirian sambil berharap kamu baca. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 21,
+    "text": "Yang paling nyakitin itu bukan cuma perpisahan, tapi rasa hampa setelahnya yang nggak pernah hilang. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 22,
+    "text": "Aku belajar kalau nggak semua orang yang bilang sayang itu bakal tinggal. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 23,
+    "text": "Lucu ya, aku masih doa yang sama buatmu, tapi mungkin kamu udah doa yang sama buat orang lain. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 24,
+    "text": "Aku capek pura-pura kuat, tapi nggak ada tempat buat aku cerita tentang sakit ini. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 25,
+    "text": "Sekarang aku cuma bisa liat kamu dari jauh, padahal dulu aku yang paling deket sama kamu. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 26,
+    "text": "Rasanya sakit banget nyimpen semua kenangan ini, tapi aku juga nggak bisa buang. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 27,
+    "text": "Aku kira kita bakal jadi 'kita' selamanya, ternyata cuma sampai di sini. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 28,
+    "text": "Malam ini aku nangis lagi, dan kamu mungkin nggak pernah tau. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 29,
+    "text": "Aku kangen banget sama kamu, tapi aku tau, kangen ini cuma buat aku sendiri. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 30,
+    "text": "Yang paling sakit itu sadar kalau aku bukan alasan senyummu lagi. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 31,
+    "text": "Aku pernah jadi rumahmu, tapi sekarang aku cuma jadi masa lalu yang nggak penting. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 32,
+    "text": "Rasanya kayak semua janji manis itu cuma mimpi, dan aku udah bangun terlalu cepat. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 33,
+    "text": "Aku nggak marah kamu pergi, aku cuma sakit karena kamu nggak pernah nengok lagi. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 34,
+    "text": "Lucu ya, aku dulu segalanya buatmu, sekarang aku bahkan bukan siapa-siapa. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 35,
+    "text": "Aku kira kita bisa lawan semua masalah, tapi ternyata kamu yang nyerah duluan. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 36,
+    "text": "Sekarang yang tersisa cuma sepi, yang nggak bisa diisi sama siapa pun selain kamu. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 37,
+    "text": "Aku nggak tau harus kemana lagi, karena semua jalan rasanya selalu balik ke kamu. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 38,
+    "text": "Aku udah coba lupa, tapi setiap hal kecil di dunia ini selalu ngingetin aku ke kamu. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 39,
+    "text": "Rasanya sakit banget liat orang lain dapet senyum yang dulu cuma buat aku. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 40,
+    "text": "Kadang aku iri sama angin, karena dia masih bisa nyentuh kamu. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 41,
+    "text": "Aku udah capek bilang ke diri sendiri kalau semua bakal baik-baik aja, padahal nggak. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 42,
+    "text": "Sekarang aku cuma bisa nyimpen semua rasa ini, sendirian, tanpa kamu. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 43,
+    "text": "Yang paling nyakitin itu sadar kalau aku berjuang sendirian di hubungan yang harusnya berdua. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 44,
+    "text": "Aku masih hafal suaramu, tapi mungkin kamu udah lupa rasanya nyebut namaku. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 45,
+    "text": "Lucu ya, kita pernah janji nggak akan ninggalin, tapi janji itu yang paling dulu kamu lupain. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 46,
+    "text": "Aku nggak tau gimana caranya sembuh dari rasa sakit yang kamu tinggalin. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 47,
+    "text": "Kadang aku pengen nyalahin waktu, tapi sebenernya yang salah cuma hati ini yang terlalu berharap. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 48,
+    "text": "Aku kangen kita, tapi aku tau kita udah nggak akan pernah sama lagi. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 49,
+    "text": "Rasanya hampa banget, kayak dunia ikut kosong setelah kamu pergi. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 50,
+    "text": "Aku nggak minta kamu balik, aku cuma pengen rasa sakit ini hilang sebentar aja. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 51,
+    "text": "Lucu ya, aku bisa jatuh cinta sedalam ini sama orang yang akhirnya pergi. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 52,
+    "text": "Aku udah coba semua cara buat lupain, tapi setiap malam, kamu yang selalu muncul. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 53,
+    "text": "Sekarang aku cuma bisa peluk bantal sambil pura-pura itu kamu. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 54,
+    "text": "Rasanya sakit banget nyadar kalau aku udah nggak lagi jadi bagian hidupmu. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 55,
+    "text": "Aku kangen suaramu yang dulu bikin hati ini tenang, sekarang cuma jadi echo di kepala. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 56,
+    "text": "Yang paling nyakitin itu bukan kamu pergi, tapi cara kamu pergi seolah nggak pernah ada aku. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 57,
+    "text": "Aku nggak tau apa aku bakal sembuh, tapi aku tau aku bakal selalu inget kamu. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 58,
+    "text": "Lucu ya, aku masih sayang kamu, bahkan setelah semua sakit yang kamu kasih. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 59,
+    "text": "Aku kira cinta cukup buat kita bertahan, ternyata aku salah. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 60,
+    "text": "Sekarang semua tentangmu cuma tinggal diinget, nggak bisa diulang lagi. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 61,
+    "text": "Aku nggak marah, aku cuma kecewa karena aku nggak cukup buatmu bertahan. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 62,
+    "text": "Kadang aku ngerasa sendirian di dunia ini, bahkan saat dikelilingi banyak orang. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 63,
+    "text": "Aku udah coba kuat, tapi setiap kali inget kamu, rasanya jatuh lagi. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 64,
+    "text": "Yang paling sakit itu bukan kehilanganmu, tapi kehilangan diriku yang dulu bahagia. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 65,
+    "text": "Aku kangen banget sama kita yang dulu, yang nggak kenal kata asing. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 66,
+    "text": "Sekarang yang tersisa cuma kenangan, dan itu nyakitin banget. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 67,
+    "text": "Lucu ya, aku masih nunggu kabar yang nggak akan datang. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 68,
+    "text": "Aku nggak tau harus cerita ke siapa lagi, semua orang capek denger aku tentang kamu. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 69,
+    "text": "Rasanya hampa, kayak semua yang pernah kita punya hilang tanpa jejak. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 70,
+    "text": "Aku pengen berhenti nangis, tapi mataku kayak nggak mau berhenti. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 71,
+    "text": "Sekarang aku cuma bisa ngeliat foto lama dan pura-pura kamu masih di sini. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 72,
+    "text": "Aku kira aku bisa move on, tapi hati ini tetap di tempatmu tinggalin. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 73,
+    "text": "Aku nggak minta apa-apa lagi, cuma pengen rasa sakit ini reda sebentar aja. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 74,
+    "text": "Lucu ya, aku masih nyimpen semua pesanmu yang udah basi. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 75,
+    "text": "Aku kangen kamu, tapi aku tau kamu nggak akan pernah balik lagi. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 76,
+    "text": "Rasanya sakit banget, tapi aku udah terlalu terbiasa sama rasa sakit ini. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 77,
+    "text": "Aku kira aku bisa pura-pura nggak peduli, tapi setiap malam aku kalah sama rindu ini. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 78,
+    "text": "Aku cuma bisa doa biar hati ini kuat, meski setiap hari rasanya jatuh lagi. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 79,
+    "text": "Sekarang semua tempat terasa asing tanpa kamu di sampingku. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 80,
+    "text": "Aku kangen rasa nyaman itu, yang cuma ada kalau sama kamu. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 81,
+    "text": "Lucu ya, dulu kita saling cari, sekarang kita saling hilang. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 82,
+    "text": "Aku nggak tau kapan rasa ini akan selesai, tapi aku harap segera. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 83,
+    "text": "Aku masih nyimpen semua kenangan kita, meski itu yang paling nyakitin. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 84,
+    "text": "Kadang aku ngerasa capek banget jadi kuat sendirian. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 85,
+    "text": "Rasanya sakit, tapi aku tetep sayang sama kamu dari jauh. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 86,
+    "text": "Sekarang yang tersisa cuma aku dan sepi ini, yang nggak pernah pergi. 😞",
+    "categoryId": 10
+  },
+  {
+    "id": 87,
+    "text": "Aku kangen kamu, tapi mungkin kamu nggak pernah kangen lagi. 🖤",
+    "categoryId": 10
+  },
+  {
+    "id": 88,
+    "text": "Aku cuma bisa bilang ke diriku sendiri kalau ini bukan salah siapa-siapa, biar hati ini tenang. 💔",
+    "categoryId": 10
+  },
+  {
+    "id": 89,
+    "text": "Lucu ya, aku jatuh cinta sama kamu, tapi akhirnya jatuh sakit juga karena kamu. 🥹",
+    "categoryId": 10
+  },
+  {
+    "id": 90,
+    "text": "Aku nggak tau lagi harus apa selain nerima kalau kita emang udah selesai. 🥀",
+    "categoryId": 10
+  },
+  {
+    "id": 91,
+    "text": "Sekarang malam terasa lebih panjang, dan aku cuma bisa temenin diriku sendiri. 😔",
+    "categoryId": 10
+  },
+  {
+    "id": 92,
+    "text": "Aku kangen semua tentang kamu, tapi aku nggak bisa apa-apa selain nangis. 🖤",
+    "categoryId": 10
+  }
+]

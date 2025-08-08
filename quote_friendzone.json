@@ -1,0 +1,472 @@
+[
+  {
+    "id": 1,
+    "text": "Kadang aku lupa, kalau di mata kamu aku cuma teman. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 2,
+    "text": "Friendzone itu kayak bayar kos tapi nggak pernah boleh tidur di sana. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 3,
+    "text": "Ciyeee… dia curhat tentang gebetannya, bukan tentang kita. 😭",
+    "categoryId": 4
+  },
+  {
+    "id": 4,
+    "text": "Aku selalu ada buat kamu, tapi kamu selalu ada buat dia. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 5,
+    "text": "Friendzone itu pahit, tapi senyummu bikin nagih. 🥹",
+    "categoryId": 4
+  },
+  {
+    "id": 6,
+    "text": "Kita dekat, tapi nggak pernah bisa sedekat itu. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 7,
+    "text": "Sering bareng, tapi status kita tetep teman. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 8,
+    "text": "Aku hapal semua tentangmu, tapi kamu nggak pernah tau rasaku. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 9,
+    "text": "Friendzone itu sakitnya kayak digigit nyamuk tapi seharian gatel. 😆",
+    "categoryId": 4
+  },
+  {
+    "id": 10,
+    "text": "Aku jagain kamu dari jauh, dia yang punya kamu. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 11,
+    "text": "Friendzone: aku ngarep, kamu nyaman. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 12,
+    "text": "Bisa bikin ketawa, tapi nggak bisa bikin jatuh cinta. 😭",
+    "categoryId": 4
+  },
+  {
+    "id": 13,
+    "text": "Aku selalu ada di cerita kamu, tapi cuma sebagai tokoh sampingan. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 14,
+    "text": "Aku sayang kamu, tapi kamu sayangnya ke orang lain. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 15,
+    "text": "Friendzone itu artinya sayang yang harus diam. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 16,
+    "text": "Aku nggak pernah bisa jadi alasan kamu senyum sendiri. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 17,
+    "text": "Kamu bilang aku temen terbaik, tapi aku maunya lebih. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 18,
+    "text": "Friendzone: berharap lebih, dapatnya pelukan selamat pagi. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 19,
+    "text": "Aku ngerti kamu, tapi kamu nggak ngerti aku. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 20,
+    "text": "Sering di chat, tapi nggak pernah di hati. 🥹",
+    "categoryId": 4
+  },
+  {
+    "id": 21,
+    "text": "Friendzone itu kayak jadi penonton film yang nggak pernah selesai. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 22,
+    "text": "Aku yang nemenin kamu nangis, dia yang kamu kejar. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 23,
+    "text": "Friendzone: bahagia bareng, tapi nggak bisa bareng. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 24,
+    "text": "Kadang pengen egois, tapi takut kehilanganmu. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 25,
+    "text": "Aku selalu inget kamu, kamu selalu inget dia. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 26,
+    "text": "Friendzone itu sabar tingkat dewa. 😆",
+    "categoryId": 4
+  },
+  {
+    "id": 27,
+    "text": "Kita deket, tapi cuma sampai sini. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 28,
+    "text": "Friendzone: yang hadir tapi nggak dianggap. 🥹",
+    "categoryId": 4
+  },
+  {
+    "id": 29,
+    "text": "Aku diem, bukan karena nggak sayang, tapi takut hancur. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 30,
+    "text": "Friendzone itu kayak wifi tetangga, keliatan tapi nggak bisa dipake. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 31,
+    "text": "Aku senyum tiap kamu senyum, padahal bukan buat aku. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 32,
+    "text": "Friendzone: ngarep yang nggak diundang. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 33,
+    "text": "Kamu cerita tentang dia, aku cuma bisa bilang 'wah, seneng deh'. 😭",
+    "categoryId": 4
+  },
+  {
+    "id": 34,
+    "text": "Aku nggak bisa cemburu terang-terangan. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 35,
+    "text": "Friendzone itu lucu, bikin bahagia dan sakit sekaligus. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 36,
+    "text": "Sering bareng tapi nggak pernah jadi apa-apa. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 37,
+    "text": "Aku pura-pura kuat, padahal remuk. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 38,
+    "text": "Friendzone itu kayak minum kopi dingin, pahit tapi nagih. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 39,
+    "text": "Aku pengen lebih, tapi takut kehilangan yang ada. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 40,
+    "text": "Friendzone: nyimpen rasa, tapi harus pura-pura nggak ada. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 41,
+    "text": "Aku bukan siapa-siapa, tapi kamu segalanya. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 42,
+    "text": "Friendzone itu cuma bisa bilang ‘selamat ya’ sambil senyum palsu. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 43,
+    "text": "Kadang pengen pergi, tapi kangen yang nahan. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 44,
+    "text": "Friendzone: dia yang dapet, aku yang nunggu. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 45,
+    "text": "Aku yang selalu siap, tapi nggak pernah kamu pilih. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 46,
+    "text": "Friendzone itu belajar ikhlas tanpa diminta. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 47,
+    "text": "Kita chat tiap hari, tapi tetep nggak kemana-mana. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 48,
+    "text": "Aku selalu ada, tapi kamu nggak pernah liat. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 49,
+    "text": "Friendzone: nemenin dia cari cinta, padahal cintanya aku. 😭",
+    "categoryId": 4
+  },
+  {
+    "id": 50,
+    "text": "Kamu nyaman, aku nyesek. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 51,
+    "text": "Friendzone itu nggak punya hak buat marah. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 52,
+    "text": "Aku cuma bisa mendoakan, bukan memiliki. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 53,
+    "text": "Friendzone: jadi pahlawan tanpa penghargaan. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 54,
+    "text": "Aku nggak pernah bilang sayang, tapi kamu segalanya. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 55,
+    "text": "Friendzone itu kayak nonton bioskop dari luar. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 56,
+    "text": "Sering ngobrol, tapi nggak pernah dianggap serius. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 57,
+    "text": "Aku ngalah biar kamu bahagia. 🥹",
+    "categoryId": 4
+  },
+  {
+    "id": 58,
+    "text": "Friendzone: sayang tapi nggak bisa bilang. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 59,
+    "text": "Aku yang dengerin curhatmu, dia yang kamu peluk. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 60,
+    "text": "Friendzone itu belajar legowo tiap hari. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 61,
+    "text": "Kadang pengen marah, tapi sadar siapa aku. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 62,
+    "text": "Friendzone: jadi alasan senyum tapi bukan alasan rindu. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 63,
+    "text": "Aku ada buat kamu, tapi nggak di hati kamu. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 64,
+    "text": "Friendzone itu tempat sabar diuji. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 65,
+    "text": "Kita deket, tapi nggak cukup deket. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 66,
+    "text": "Aku nggak bisa ngarepin yang bukan milikku. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 67,
+    "text": "Friendzone: nemenin, tapi nggak pernah jadi pilihan. 🥹",
+    "categoryId": 4
+  },
+  {
+    "id": 68,
+    "text": "Aku diem, tapi selalu merhatiin kamu. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 69,
+    "text": "Friendzone itu kayak hujan, indah tapi bikin dingin. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 70,
+    "text": "Aku pengen bilang cinta, tapi takut kamu pergi. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 71,
+    "text": "Friendzone: rasa yang disimpen, bukan dibales. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 72,
+    "text": "Aku nggak pernah masuk prioritasmu. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 73,
+    "text": "Friendzone itu kayak main game tanpa bisa menang. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 74,
+    "text": "Aku cuma bisa suka diam-diam. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 75,
+    "text": "Friendzone: deket tapi jauh di hati. 🥹",
+    "categoryId": 4
+  },
+  {
+    "id": 76,
+    "text": "Aku yang sabar, dia yang kamu pilih. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 77,
+    "text": "Friendzone itu belajar bahagia liat kamu bahagia. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 78,
+    "text": "Aku nggak bisa apa-apa selain ada. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 79,
+    "text": "Friendzone: nemenin kamu jatuh cinta ke orang lain. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 80,
+    "text": "Aku nggak minta lebih, cuma pengen dianggap. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 81,
+    "text": "Friendzone itu kayak nyanyi tanpa ada yang denger. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 82,
+    "text": "Aku nggak bisa jadi yang kamu mau. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 83,
+    "text": "Friendzone: candu yang nyakitin. 😅",
+    "categoryId": 4
+  },
+  {
+    "id": 84,
+    "text": "Aku ada, tapi nggak pernah cukup. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 85,
+    "text": "Friendzone itu cuma bisa liat, nggak bisa punya. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 86,
+    "text": "Aku diem, tapi rindu tiap hari. 🥲",
+    "categoryId": 4
+  },
+  {
+    "id": 87,
+    "text": "Friendzone: deket, tapi nggak bisa dipeluk. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 88,
+    "text": "Aku nggak bisa protes. 😞",
+    "categoryId": 4
+  },
+  {
+    "id": 89,
+    "text": "Friendzone itu sabar yang nggak ada ujungnya. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 90,
+    "text": "Aku cuma bisa berharap tanpa harapan. 😢",
+    "categoryId": 4
+  },
+  {
+    "id": 91,
+    "text": "Friendzone: nemenin tapi bukan tujuan akhir. 🥹",
+    "categoryId": 4
+  },
+  {
+    "id": 92,
+    "text": "Aku yang selalu ada, tapi nggak pernah kamu pilih. 😔",
+    "categoryId": 4
+  },
+  {
+    "id": 93,
+    "text": "Friendzone itu belajar kuat tanpa disadari. 😌",
+    "categoryId": 4
+  },
+  {
+    "id": 94,
+    "text": "Aku bukan dia, dan kamu nggak pernah liat aku. 😢",
+    "categoryId": 4
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "text": "Jangan takut gagal, yang penting jangan berhenti coba.",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "text": "Hidup itu singkat, jangan habisin buat mikirin omongan orang.",
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "text": "Sabar bukan berarti lemah, tapi tanda lo kuat nahan ego.",
+    "categoryId": 1
+  },
+  {
+    "id": 4,
+    "text": "Kesalahan hari ini bisa jadi pelajaran buat besok.",
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "text": "Nggak semua orang bakal ngerti lo, dan itu nggak apa-apa.",
+    "categoryId": 1
+  },
+  {
+    "id": 6,
+    "text": "Fokus sama tujuan, bukan sama drama orang lain.",
+    "categoryId": 1
+  },
+  {
+    "id": 7,
+    "text": "Mau bahagia? Kurangin bandingin diri sama orang lain.",
+    "categoryId": 1
+  },
+  {
+    "id": 8,
+    "text": "Proses nggak bakal bohong sama hasil.",
+    "categoryId": 1
+  },
+  {
+    "id": 9,
+    "text": "Kalau capek, istirahat. Tapi jangan nyerah.",
+    "categoryId": 1
+  },
+  {
+    "id": 10,
+    "text": "Berani ambil risiko adalah awal dari perubahan.",
+    "categoryId": 1
+  },
+  {
+    "id": 11,
+    "text": "Jangan buang waktu buat orang yang cuma bikin lo jatuh.",
+    "categoryId": 1
+  },
+  {
+    "id": 12,
+    "text": "Belajar nerima itu bagian dari tumbuh.",
+    "categoryId": 1
+  },
+  {
+    "id": 13,
+    "text": "Orang sukses dulunya juga pernah gagal berkali-kali.",
+    "categoryId": 1
+  },
+  {
+    "id": 14,
+    "text": "Jangan tunggu mood bagus buat mulai, mulai dulu baru mood nyusul.",
+    "categoryId": 1
+  },
+  {
+    "id": 15,
+    "text": "Kadang yang lo butuh cuma percaya sama diri sendiri.",
+    "categoryId": 1
+  },
+  {
+    "id": 16,
+    "text": "Perubahan kecil hari ini bisa jadi besar nanti.",
+    "categoryId": 1
+  },
+  {
+    "id": 17,
+    "text": "Nggak usah dengerin semua omongan negatif, cukup buktiin lewat hasil.",
+    "categoryId": 1
+  },
+  {
+    "id": 18,
+    "text": "Yang sabar biasanya yang paling kuat.",
+    "categoryId": 1
+  },
+  {
+    "id": 19,
+    "text": "Mimpi itu gratis, perjuangannya yang mahal.",
+    "categoryId": 1
+  },
+  {
+    "id": 20,
+    "text": "Lo nggak bisa kontrol semua hal, tapi lo bisa kontrol reaksi lo.",
+    "categoryId": 1
+  },
+  {
+    "id": 21,
+    "text": "Gagal itu biasa, nyerah itu pilihan.",
+    "categoryId": 1
+  },
+  {
+    "id": 22,
+    "text": "Hidup nggak harus sempurna buat bisa disyukuri.",
+    "categoryId": 1
+  },
+  {
+    "id": 23,
+    "text": "Orang yang paling sabar biasanya yang paling paham hidup.",
+    "categoryId": 1
+  },
+  {
+    "id": 24,
+    "text": "Waktu nggak bisa balik, jadi pakai sebaik mungkin.",
+    "categoryId": 1
+  },
+  {
+    "id": 25,
+    "text": "Semua yang lo lewatin bakal bikin lo lebih kuat.",
+    "categoryId": 1
+  },
+  {
+    "id": 26,
+    "text": "Jangan berhenti belajar, karena dunia nggak pernah berhenti berubah.",
+    "categoryId": 1
+  },
+  {
+    "id": 27,
+    "text": "Hidup lo tanggung jawab lo, bukan orang lain.",
+    "categoryId": 1
+  },
+  {
+    "id": 28,
+    "text": "Hargai proses, karena dari situ lo tumbuh.",
+    "categoryId": 1
+  },
+  {
+    "id": 29,
+    "text": "Kebahagiaan datang dari hati yang bersyukur.",
+    "categoryId": 1
+  },
+  {
+    "id": 30,
+    "text": "Masa lalu nggak bisa dihapus, tapi bisa dijadiin pelajaran.",
+    "categoryId": 1
+  },
+  {
+    "id": 31,
+    "text": "Berhenti nyalahin keadaan, mulai ambil tindakan.",
+    "categoryId": 1
+  },
+  {
+    "id": 32,
+    "text": "Lo nggak harus sempurna buat bisa dihargai.",
+    "categoryId": 1
+  },
+  {
+    "id": 33,
+    "text": "Mimpi besar butuh usaha besar juga.",
+    "categoryId": 1
+  },
+  {
+    "id": 34,
+    "text": "Semua hal butuh waktu, jangan buru-buru.",
+    "categoryId": 1
+  },
+  {
+    "id": 35,
+    "text": "Dunia nggak peduli lo capek, jadi jangan gampang nyerah.",
+    "categoryId": 1
+  },
+  {
+    "id": 36,
+    "text": "Jangan takut sendirian, dari situ lo belajar mandiri.",
+    "categoryId": 1
+  },
+  {
+    "id": 37,
+    "text": "Berani beda itu langkah awal buat maju.",
+    "categoryId": 1
+  },
+  {
+    "id": 38,
+    "text": "Kesuksesan nggak datang dari ngomong doang, tapi dari aksi.",
+    "categoryId": 1
+  },
+  {
+    "id": 39,
+    "text": "Percaya diri itu kunci buat buka pintu kesempatan.",
+    "categoryId": 1
+  },
+  {
+    "id": 40,
+    "text": "Setiap jatuh, coba lagi. Jangan berhenti di situ.",
+    "categoryId": 1
+  },
+  {
+    "id": 41,
+    "text": "Jangan cari validasi dari orang yang nggak peduli sama lo.",
+    "categoryId": 1
+  },
+  {
+    "id": 42,
+    "text": "Hidup bukan soal siapa yang duluan sukses, tapi siapa yang tahan lama.",
+    "categoryId": 1
+  },
+  {
+    "id": 43,
+    "text": "Berbuat baik itu nggak rugi, efeknya balik ke lo juga.",
+    "categoryId": 1
+  },
+  {
+    "id": 44,
+    "text": "Lo nggak bisa ubah masa lalu, tapi lo bisa ubah masa depan.",
+    "categoryId": 1
+  },
+  {
+    "id": 45,
+    "text": "Kesabaran hari ini adalah kekuatan besok.",
+    "categoryId": 1
+  },
+  {
+    "id": 46,
+    "text": "Belajar nerima kenyataan bikin hati lo lebih tenang.",
+    "categoryId": 1
+  },
+  {
+    "id": 47,
+    "text": "Yang lo tanam hari ini bakal lo panen nanti.",
+    "categoryId": 1
+  },
+  {
+    "id": 48,
+    "text": "Berani gagal itu langkah awal buat berhasil.",
+    "categoryId": 1
+  },
+  {
+    "id": 49,
+    "text": "Lo nggak bisa kontrol opini orang, tapi bisa buktiin lewat hasil.",
+    "categoryId": 1
+  },
+  {
+    "id": 50,
+    "text": "Ketenangan itu datang kalau lo udah ikhlas sama proses.",
+    "categoryId": 1
+  },
+  {
+    "id": 51,
+    "text": "Semua yang lo lalui pasti ada alasannya.",
+    "categoryId": 1
+  },
+  {
+    "id": 52,
+    "text": "Jangan berhenti karena omongan orang lain.",
+    "categoryId": 1
+  },
+  {
+    "id": 53,
+    "text": "Penting banget buat tahu kapan harus lanjut dan kapan harus berhenti.",
+    "categoryId": 1
+  },
+  {
+    "id": 54,
+    "text": "Jangan ragu buat mulai dari nol.",
+    "categoryId": 1
+  },
+  {
+    "id": 55,
+    "text": "Keberanian itu bukan nggak takut, tapi tetap jalan walau takut.",
+    "categoryId": 1
+  },
+  {
+    "id": 56,
+    "text": "Yang lo fokusin bakal tumbuh, jadi pilih fokus yang positif.",
+    "categoryId": 1
+  },
+  {
+    "id": 57,
+    "text": "Kesuksesan itu hasil dari kebiasaan baik kecil yang lo ulang tiap hari.",
+    "categoryId": 1
+  },
+  {
+    "id": 58,
+    "text": "Kalau capek, ingat tujuan awal lo.",
+    "categoryId": 1
+  },
+  {
+    "id": 59,
+    "text": "Berhenti bandingin hidup lo sama highlight orang lain.",
+    "categoryId": 1
+  },
+  {
+    "id": 60,
+    "text": "Hidup lebih ringan kalau lo nggak terlalu peduli sama omongan negatif.",
+    "categoryId": 1
+  },
+  {
+    "id": 61,
+    "text": "Nggak semua hal harus lo jelasin, kadang cukup buktiin.",
+    "categoryId": 1
+  },
+  {
+    "id": 62,
+    "text": "Mulai sekarang, pilih orang yang bikin lo berkembang.",
+    "categoryId": 1
+  },
+  {
+    "id": 63,
+    "text": "Hidup itu bukan balapan, tapi perjalanan.",
+    "categoryId": 1
+  },
+  {
+    "id": 64,
+    "text": "Jangan tunggu motivasi, disiplin lebih penting.",
+    "categoryId": 1
+  },
+  {
+    "id": 65,
+    "text": "Kalau jatuh, bangkit. Itu aja kuncinya.",
+    "categoryId": 1
+  },
+  {
+    "id": 66,
+    "text": "Belajar ikhlas bikin hati lo bebas.",
+    "categoryId": 1
+  },
+  {
+    "id": 67,
+    "text": "Banyak gagal bukan berarti lo nggak berbakat, tapi lo lagi ditempa.",
+    "categoryId": 1
+  },
+  {
+    "id": 68,
+    "text": "Prioritaskan yang bikin lo bahagia.",
+    "categoryId": 1
+  },
+  {
+    "id": 69,
+    "text": "Jangan malu mulai dari bawah.",
+    "categoryId": 1
+  },
+  {
+    "id": 70,
+    "text": "Tumbuh itu sakit, tapi hasilnya manis.",
+    "categoryId": 1
+  },
+  {
+    "id": 71,
+    "text": "Lo yang pegang kendali hidup lo, bukan orang lain.",
+    "categoryId": 1
+  },
+  {
+    "id": 72,
+    "text": "Berhenti mikirin masa lalu, fokus sama yang bisa lo ubah.",
+    "categoryId": 1
+  },
+  {
+    "id": 73,
+    "text": "Kesuksesan bukan kebetulan, tapi hasil kerja keras.",
+    "categoryId": 1
+  },
+  {
+    "id": 74,
+    "text": "Hidup nggak selalu adil, tapi selalu bisa lo perjuangin.",
+    "categoryId": 1
+  },
+  {
+    "id": 75,
+    "text": "Berhenti nunda, mulai sekarang.",
+    "categoryId": 1
+  },
+  {
+    "id": 76,
+    "text": "Orang yang tenang biasanya yang paling kuat.",
+    "categoryId": 1
+  },
+  {
+    "id": 77,
+    "text": "Jangan biarin takut ngalahin impian lo.",
+    "categoryId": 1
+  },
+  {
+    "id": 78,
+    "text": "Setiap usaha pasti ada hasilnya, tinggal sabar aja.",
+    "categoryId": 1
+  },
+  {
+    "id": 79,
+    "text": "Hidup nggak akan berubah kalau lo nggak berubah.",
+    "categoryId": 1
+  },
+  {
+    "id": 80,
+    "text": "Fokus sama hal yang bikin lo maju.",
+    "categoryId": 1
+  },
+  {
+    "id": 81,
+    "text": "Orang lain boleh nggak percaya sama lo, yang penting lo percaya sama diri sendiri.",
+    "categoryId": 1
+  },
+  {
+    "id": 82,
+    "text": "Bersyukur bikin hidup lo lebih bahagia.",
+    "categoryId": 1
+  },
+  {
+    "id": 83,
+    "text": "Semua yang lo mau butuh proses, jangan instan.",
+    "categoryId": 1
+  },
+  {
+    "id": 84,
+    "text": "Jangan berhenti baik cuma karena orang lain jahat.",
+    "categoryId": 1
+  },
+  {
+    "id": 85,
+    "text": "Lo nggak harus buktiin ke semua orang, cukup ke diri sendiri.",
+    "categoryId": 1
+  },
+  {
+    "id": 86,
+    "text": "Keberhasilan besar dimulai dari langkah kecil.",
+    "categoryId": 1
+  },
+  {
+    "id": 87,
+    "text": "Kalau gagal, coba cara lain, bukan berhenti.",
+    "categoryId": 1
+  },
+  {
+    "id": 88,
+    "text": "Hidup lo berharga, jangan sia-siain buat hal yang nggak penting.",
+    "categoryId": 1
+  },
+  {
+    "id": 89,
+    "text": "Berani ambil keputusan bikin lo selangkah lebih maju.",
+    "categoryId": 1
+  },
+  {
+    "id": 90,
+    "text": "Jangan nyerah cuma karena lambat, yang penting tetap jalan.",
+    "categoryId": 1
+  },
+  {
+    "id": 91,
+    "text": "Sukses itu hasil dari konsistensi kecil setiap hari.",
+    "categoryId": 1
+  },
+  {
+    "id": 92,
+    "text": "Lo nggak bisa kontrol semua hal, tapi bisa kontrol diri sendiri.",
+    "categoryId": 1
+  },
+  {
+    "id": 93,
+    "text": "Banyak ngomong nggak bikin maju, banyak aksi iya.",
+    "categoryId": 1
+  },
+  {
+    "id": 94,
+    "text": "Hargai diri lo sendiri, itu langkah awal bahagia.",
+    "categoryId": 1
+  },
+  {
+    "id": 95,
+    "text": "Lo nggak perlu diakui semua orang buat jadi berharga.",
+    "categoryId": 1
+  },
+  {
+    "id": 96,
+    "text": "Kesalahan itu bagian dari belajar.",
+    "categoryId": 1
+  },
+  {
+    "id": 97,
+    "text": "Jangan tunggu semuanya sempurna buat mulai.",
+    "categoryId": 1
+  },
+  {
+    "id": 98,
+    "text": "Lo yang tentuin hidup lo, bukan orang lain.",
+    "categoryId": 1
+  },
+  {
+    "id": 99,
+    "text": "Percaya proses, karena hasil nggak bakal ngibulin.",
+    "categoryId": 1
+  },
+  {
+    "id": 100,
+    "text": "Jangan takut gagal, takutlah kalau lo nggak pernah nyoba.",
+    "categoryId": 1
+  }
+]

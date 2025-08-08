@@ -1,0 +1,477 @@
+[
+  {
+    "id": 1,
+    "text": "Hidup itu sederhana, yang ribet cuma pikiran sama kuota. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 2,
+    "text": "Tidur siang bentar, bangun-bangun udah besok. 😴",
+    "categoryId": 6
+  },
+  {
+    "id": 3,
+    "text": "Aku tuh bukan pemalas, aku cuma hemat energi. ⚡",
+    "categoryId": 6
+  },
+  {
+    "id": 4,
+    "text": "Kalau senyum bisa bikin kurus, aku udah hilang dari dunia. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 5,
+    "text": "Aku sering overthinking, tapi hasilnya tetep nggak kaya. 💸",
+    "categoryId": 6
+  },
+  {
+    "id": 6,
+    "text": "Diet mulai besok… besok yang mana nggak tau. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 7,
+    "text": "Bucin mah biasa, yang penting nggak lupa makan. 🍜",
+    "categoryId": 6
+  },
+  {
+    "id": 8,
+    "text": "Orang bilang jangan kebanyakan rebahan, padahal itu passion. 😎",
+    "categoryId": 6
+  },
+  {
+    "id": 9,
+    "text": "HP lowbat lebih nyesek daripada chat nggak dibales. 📱",
+    "categoryId": 6
+  },
+  {
+    "id": 10,
+    "text": "Aku sering disangka pendiem, padahal hemat kata aja. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 11,
+    "text": "Kalau lapar jangan marah, nanti dikira butuh perhatian. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 12,
+    "text": "Cinta itu buta, tapi dompet nggak bisa bohong. 💸",
+    "categoryId": 6
+  },
+  {
+    "id": 13,
+    "text": "Aku tuh nggak jomblo, cuma lagi cuti pacaran. 😝",
+    "categoryId": 6
+  },
+  {
+    "id": 14,
+    "text": "Mager adalah gaya hidup, bukan kelemahan. 😎",
+    "categoryId": 6
+  },
+  {
+    "id": 15,
+    "text": "Kalau ada lomba rebahan, aku udah jadi juara dunia. 🏆",
+    "categoryId": 6
+  },
+  {
+    "id": 16,
+    "text": "Aku percaya takdir, tapi tetep pengen rebahan dulu. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 17,
+    "text": "Ngopi dulu biar nggak salah paham sama hidup. ☕",
+    "categoryId": 6
+  },
+  {
+    "id": 18,
+    "text": "Aku nggak ngambek, cuma buffering bentar. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 19,
+    "text": "Ciyee yang lagi galau tapi tetep makan banyak. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 20,
+    "text": "Bekerja keraslah sampai tetangga ngira kamu pengangguran. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 21,
+    "text": "Hidup jangan terlalu serius, nanti keluar keriput. 😜",
+    "categoryId": 6
+  },
+  {
+    "id": 22,
+    "text": "Aku kalo senyum manis, tapi kalo lapar pahit. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 23,
+    "text": "Kalau gagal diet, anggap aja rejeki jangan ditolak. 🍰",
+    "categoryId": 6
+  },
+  {
+    "id": 24,
+    "text": "Aku bukan pemalas, aku cuma sayang kasur. 🛏️",
+    "categoryId": 6
+  },
+  {
+    "id": 25,
+    "text": "Nggak usah takut gagal, takutlah kalau wifi mati. 📶",
+    "categoryId": 6
+  },
+  {
+    "id": 26,
+    "text": "Cinta boleh kandas, yang penting kuota jangan. 😎",
+    "categoryId": 6
+  },
+  {
+    "id": 27,
+    "text": "Hidupku santai, masalah aja kadang nggak mau mampir. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 28,
+    "text": "Aku sering mikir keras, tapi hasilnya tetep lembek. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 29,
+    "text": "Mimpi indah itu bonus, yang penting tidur cukup. 😴",
+    "categoryId": 6
+  },
+  {
+    "id": 30,
+    "text": "Kalau senyum bisa bikin kaya, aku udah sultan. 💸",
+    "categoryId": 6
+  },
+  {
+    "id": 31,
+    "text": "Aku tuh suka olahraga… olahraga perasaan. 😝",
+    "categoryId": 6
+  },
+  {
+    "id": 32,
+    "text": "Ciyeee yang lagi diet tapi makan martabak. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 33,
+    "text": "Overthinking nggak bikin pinter, cuma bikin lapar malam-malam. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 34,
+    "text": "Aku percaya cinta, tapi lebih percaya diskon. 🛒",
+    "categoryId": 6
+  },
+  {
+    "id": 35,
+    "text": "Ngantuk adalah alarm alami buat rebahan. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 36,
+    "text": "Nonton drama doang bisa nangis, apalagi baca WA terakhir ‘read’. 😢",
+    "categoryId": 6
+  },
+  {
+    "id": 37,
+    "text": "Aku nggak jomblo, aku solo karir. 🎤",
+    "categoryId": 6
+  },
+  {
+    "id": 38,
+    "text": "Kalau ketawa bikin kurus, aku udah ilang dari radar. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 39,
+    "text": "Ciyeee yang lagi tidur siang sampe lupa hidup. 😴",
+    "categoryId": 6
+  },
+  {
+    "id": 40,
+    "text": "Aku nggak suka ribet, makanya sukanya rebahan. 😎",
+    "categoryId": 6
+  },
+  {
+    "id": 41,
+    "text": "Nggak usah khawatir gagal, khawatirlah kalau nasi habis. 🍚",
+    "categoryId": 6
+  },
+  {
+    "id": 42,
+    "text": "Aku pinter masak… masak alasan biar nggak keluar rumah. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 43,
+    "text": "Ciyeee yang overthinking padahal nggak ada yang mikirin. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 44,
+    "text": "Kalau galau jangan lupa makan, biar galaunya kenyang. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 45,
+    "text": "Aku tuh nggak drama, cuma suka efek slow motion di hidup. 🎬",
+    "categoryId": 6
+  },
+  {
+    "id": 46,
+    "text": "Bercanda itu penting, serius bikin cepat tua. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 47,
+    "text": "Aku nggak suka ribut, sukanya tidur nyenyak. 😴",
+    "categoryId": 6
+  },
+  {
+    "id": 48,
+    "text": "Ciyeee yang jomblo tapi sok sibuk. 😜",
+    "categoryId": 6
+  },
+  {
+    "id": 49,
+    "text": "Aku sering mikir keras, tapi hasilnya tetep empuk. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 50,
+    "text": "Kalau pusing, rebahan dulu, nanti juga hilang sendiri. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 51,
+    "text": "Aku nggak suka senja, sukanya sisa makanan. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 52,
+    "text": "Ciyeee yang ngakak sendiri baca ini. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 53,
+    "text": "Hidup itu kayak game, kalau capek bisa di-pause… rebahan. 🎮",
+    "categoryId": 6
+  },
+  {
+    "id": 54,
+    "text": "Aku nggak suka ribet, sukanya diskon. 🛍️",
+    "categoryId": 6
+  },
+  {
+    "id": 55,
+    "text": "Mager level dewa, cuma pindah posisi di kasur. 😴",
+    "categoryId": 6
+  },
+  {
+    "id": 56,
+    "text": "Kalau ketawa bikin awet muda, aku udah bayi lagi. 😝",
+    "categoryId": 6
+  },
+  {
+    "id": 57,
+    "text": "Aku sering kelaperan, tapi males bangun. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 58,
+    "text": "Ciyeee yang pura-pura produktif di rumah. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 59,
+    "text": "Aku nggak gagal diet, ini cuma cheat day panjang. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 60,
+    "text": "Kalau lagi sedih, ingat aja es krim ada di kulkas. 🍦",
+    "categoryId": 6
+  },
+  {
+    "id": 61,
+    "text": "Aku suka olahraga, tapi olahraga jempol scrolling. 📱",
+    "categoryId": 6
+  },
+  {
+    "id": 62,
+    "text": "Ciyeee yang suka ngemil tengah malem. 🌙",
+    "categoryId": 6
+  },
+  {
+    "id": 63,
+    "text": "Hidup itu indah kalau nggak disuruh bangun pagi. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 64,
+    "text": "Aku sering overthinking, tapi nggak over saving. 💸",
+    "categoryId": 6
+  },
+  {
+    "id": 65,
+    "text": "Kalau males mandi itu wajar, yang penting happy. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 66,
+    "text": "Ciyeee yang nungguin balasan chat padahal dia tidur. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 67,
+    "text": "Aku tuh nggak cuek, aku hemat energi sosial aja. 😎",
+    "categoryId": 6
+  },
+  {
+    "id": 68,
+    "text": "Kalau kerja keras bikin kaya, tidur bikin bahagia. 😴",
+    "categoryId": 6
+  },
+  {
+    "id": 69,
+    "text": "Aku sering dibilang lemot, padahal loading. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 70,
+    "text": "Ciyeee yang suka nyolong cemilan di kulkas. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 71,
+    "text": "Aku tuh romantis, tapi sama makanan. 🍕",
+    "categoryId": 6
+  },
+  {
+    "id": 72,
+    "text": "Kalau nggak ada motivasi, rebahan aja dulu. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 73,
+    "text": "Aku nggak malas, aku lagi saving tenaga. ⚡",
+    "categoryId": 6
+  },
+  {
+    "id": 74,
+    "text": "Ciyeee yang kangen tapi gengsi bilang. 😝",
+    "categoryId": 6
+  },
+  {
+    "id": 75,
+    "text": "Aku sering mikir keras… hasilnya pusing. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 76,
+    "text": "Kalau hidup kasih lemon, tambahin es batu. 🍋",
+    "categoryId": 6
+  },
+  {
+    "id": 77,
+    "text": "Aku tuh punya prinsip: lapar dulu, diet nanti. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 78,
+    "text": "Ciyeee yang baca ini sambil rebahan. 🛏️",
+    "categoryId": 6
+  },
+  {
+    "id": 79,
+    "text": "Aku nggak suka ribet, sukanya santai. 😎",
+    "categoryId": 6
+  },
+  {
+    "id": 80,
+    "text": "Kalau galau jangan lupa ngemil, biar galaunya gemuk. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 81,
+    "text": "Aku tuh multitasking, bisa rebahan sambil mikir. 😴",
+    "categoryId": 6
+  },
+  {
+    "id": 82,
+    "text": "Ciyeee yang suka tidur siang lama. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 83,
+    "text": "Aku sering lupa waktu kalau udah scroll TikTok. 📱",
+    "categoryId": 6
+  },
+  {
+    "id": 84,
+    "text": "Kalau capek, rebahan adalah solusi. 😌",
+    "categoryId": 6
+  },
+  {
+    "id": 85,
+    "text": "Aku nggak gagal diet, ini cuma loading. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 86,
+    "text": "Ciyeee yang ngakak sendiri di kamar. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 87,
+    "text": "Hidup itu singkat, jadi nikmati cemilan. 🍪",
+    "categoryId": 6
+  },
+  {
+    "id": 88,
+    "text": "Aku suka santai, dunia aja nggak buru-buru. 😎",
+    "categoryId": 6
+  },
+  {
+    "id": 89,
+    "text": "Kalau malas itu seni, aku seniman. 🎨",
+    "categoryId": 6
+  },
+  {
+    "id": 90,
+    "text": "Ciyeee yang lagi baca sambil senyum-senyum. 😝",
+    "categoryId": 6
+  },
+  {
+    "id": 91,
+    "text": "Aku nggak jomblo, cuma belum update status. 🤣",
+    "categoryId": 6
+  },
+  {
+    "id": 92,
+    "text": "Kalau ketawa bikin sehat, aku udah imun kebal. 😆",
+    "categoryId": 6
+  },
+  {
+    "id": 93,
+    "text": "Aku suka rebahan, itu hobi nasional. 🛏️",
+    "categoryId": 6
+  },
+  {
+    "id": 94,
+    "text": "Ciyeee yang makan mulu tapi bilang diet. 🤭",
+    "categoryId": 6
+  },
+  {
+    "id": 95,
+    "text": "Aku sering ngakak, tapi hatiku tetep happy. 😌",
+    "categoryId": 6
+  }
+]

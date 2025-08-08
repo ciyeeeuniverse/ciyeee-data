@@ -1,0 +1,472 @@
+[
+  {
+    "id": 1,
+    "text": "Kadang aku senyum, tapi dalamnya remuk. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 2,
+    "text": "Aku kangen, tapi cuma bisa diem. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 3,
+    "text": "Galau itu ketika hati penuh, tapi nggak tau mau cerita ke siapa. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 4,
+    "text": "Susah move on kalau kenangan selalu muncul tiba-tiba. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 5,
+    "text": "Aku nggak apa-apa, tapi nggak sepenuhnya baik-baik aja. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 6,
+    "text": "Rindu ini diam, tapi nyakitin banget. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 7,
+    "text": "Kadang aku cuma butuh dipeluk, tanpa ditanya apa-apa. 🥹",
+    "categoryId": 5
+  },
+  {
+    "id": 8,
+    "text": "Galau itu ketika chat nggak dibales, tapi status online. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 9,
+    "text": "Aku tersenyum di luar, tapi nangis di hati. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 10,
+    "text": "Kenangan itu kayak lagu, selalu muter di kepala. 🎶",
+    "categoryId": 5
+  },
+  {
+    "id": 11,
+    "text": "Kangen itu nyakitin kalau cuma sebelah. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 12,
+    "text": "Kadang pengen hilang sebentar, biar nggak kerasa sakitnya. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 13,
+    "text": "Aku cuma pengen dimengerti, bukan dihakimi. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 14,
+    "text": "Galau itu capek, tapi nggak bisa berhenti mikirin kamu. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 15,
+    "text": "Semua terasa hampa, padahal orang lain lihatnya aku bahagia. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 16,
+    "text": "Aku nggak bisa maksa orang buat tetap di sini. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 17,
+    "text": "Kadang overthinking itu lebih nyakitin daripada kenyataannya. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 18,
+    "text": "Aku ketawa di depan orang, nangis di balik layar. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 19,
+    "text": "Rindu itu kayak hujan malam-malam, dingin tapi sunyi. 🌧️",
+    "categoryId": 5
+  },
+  {
+    "id": 20,
+    "text": "Galau itu ketika lagu sedih tiba-tiba terasa personal. 🎧",
+    "categoryId": 5
+  },
+  {
+    "id": 21,
+    "text": "Aku capek pura-pura kuat. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 22,
+    "text": "Hati ini penuh, tapi nggak tau gimana cara bilang. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 23,
+    "text": "Kadang aku pengen lupain semuanya, tapi hati nggak bisa. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 24,
+    "text": "Galau itu sendirian di keramaian. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 25,
+    "text": "Aku rindu, tapi nggak punya alasan buat bilang. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 26,
+    "text": "Kenapa ya yang aku jaga selalu pergi? 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 27,
+    "text": "Hidupku kayak cerita sedih yang nggak ada ending. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 28,
+    "text": "Aku pengen cerita, tapi takut nggak didengar. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 29,
+    "text": "Galau itu overthinking tengah malam sambil liatin atap kamar. 🌙",
+    "categoryId": 5
+  },
+  {
+    "id": 30,
+    "text": "Senyumku cuma kamuflase dari hati yang patah. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 31,
+    "text": "Aku kangen momen yang nggak akan balik lagi. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 32,
+    "text": "Galau itu nangis tanpa suara di malam sepi. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 33,
+    "text": "Kadang pengen marah, tapi cuma bisa diem. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 34,
+    "text": "Aku sering pura-pura bahagia biar orang nggak khawatir. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 35,
+    "text": "Hati ini nggak pernah benar-benar sembuh. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 36,
+    "text": "Aku ketawa, tapi rasanya hampa. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 37,
+    "text": "Galau itu nyimpen screenshot chat yang nggak bisa diulang. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 38,
+    "text": "Aku nggak tau kenapa, tapi hati ini berat banget. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 39,
+    "text": "Rindu yang ditahan itu sakitnya nggak ketolong. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 40,
+    "text": "Kadang aku pengen menghilang tanpa kabar. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 41,
+    "text": "Galau itu ketika mantan tiba-tiba muncul di mimpi. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 42,
+    "text": "Aku nyimpen semua sakitku sendiri. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 43,
+    "text": "Kadang pengen cerita, tapi takut dikira lebay. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 44,
+    "text": "Galau itu liat foto lama terus hati nyesek. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 45,
+    "text": "Aku kuat di luar, tapi rapuh di dalam. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 46,
+    "text": "Rindu ini nggak salah, tapi nyakitin. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 47,
+    "text": "Galau itu overthinking hal yang belum tentu terjadi. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 48,
+    "text": "Aku cuma bisa diem, padahal hati teriak. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 49,
+    "text": "Sedih yang ditahan itu paling nyakitin. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 50,
+    "text": "Galau itu pas nggak tau apa yang salah, tapi rasanya sakit. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 51,
+    "text": "Aku sering pura-pura nggak peduli, padahal hancur. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 52,
+    "text": "Kenangan itu jahat, muncul pas kita lagi rapuh. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 53,
+    "text": "Galau itu ngerasa sendirian padahal rame-rame. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 54,
+    "text": "Aku rindu versi kamu yang dulu. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 55,
+    "text": "Kadang pengen balik ke masa di mana semuanya baik-baik aja. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 56,
+    "text": "Galau itu kalau notif hp sepi tapi hati rame. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 57,
+    "text": "Aku diam bukan karena nggak peduli, tapi takut kecewa lagi. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 58,
+    "text": "Kadang galau cuma bisa diobatin sama nangis. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 59,
+    "text": "Aku capek nyembunyiin perasaan sendiri. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 60,
+    "text": "Galau itu kayak nonton film sedih sendirian. 🎬",
+    "categoryId": 5
+  },
+  {
+    "id": 61,
+    "text": "Aku nyimpen semua sakit di playlist Spotify. 🎶",
+    "categoryId": 5
+  },
+  {
+    "id": 62,
+    "text": "Rindu ini nggak akan ngerti sama kata-kata. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 63,
+    "text": "Galau itu kalau semua hal kecil tiba-tiba bikin nyesek. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 64,
+    "text": "Aku pura-pura kuat, tapi jatuhnya dalam banget. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 65,
+    "text": "Kadang aku iri sama orang yang bisa bebas ngomongin rasanya. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 66,
+    "text": "Galau itu kayak bawa ransel berat yang nggak kelihatan. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 67,
+    "text": "Aku nggak tau harus ke siapa kalau lagi rapuh. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 68,
+    "text": "Hati ini udah terlalu sering patah. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 69,
+    "text": "Galau itu kangen tapi nggak bisa ketemu. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 70,
+    "text": "Aku sering diem lama, cuma mikirin kenapa begini. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 71,
+    "text": "Kadang pengen tidur lama biar nggak ngerasain apa-apa. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 72,
+    "text": "Galau itu pas semua orang keliatan asing tiba-tiba. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 73,
+    "text": "Aku senyum di luar, tapi hatiku nangis. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 74,
+    "text": "Kenangan itu bikin galau karena nggak bisa diulang. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 75,
+    "text": "Galau itu kalau ketawa tapi pengen nangis. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 76,
+    "text": "Aku nggak tau gimana caranya lepas dari rasa ini. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 77,
+    "text": "Kadang aku cuma pengen dipeluk tanpa kata. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 78,
+    "text": "Galau itu pas lagi sendiri di kamar gelap. 🌑",
+    "categoryId": 5
+  },
+  {
+    "id": 79,
+    "text": "Aku nggak selalu kuat, tapi nggak punya pilihan. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 80,
+    "text": "Hati ini capek banget, tapi nggak bisa istirahat. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 81,
+    "text": "Galau itu saat semua hal kecil bikin baper. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 82,
+    "text": "Aku sering pura-pura nggak sakit, padahal remuk. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 83,
+    "text": "Kenangan manis itu kadang jadi luka. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 84,
+    "text": "Galau itu pas lagi rindu tapi nggak berani bilang. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 85,
+    "text": "Aku diem bukan berarti nggak peduli, tapi nggak sanggup. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 86,
+    "text": "Kadang galau cuma bisa ditulis di catatan hp. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 87,
+    "text": "Galau itu overthinking sampe ketiduran. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 88,
+    "text": "Aku kangen momen yang cuma bisa diingat, bukan diulang. 😌",
+    "categoryId": 5
+  },
+  {
+    "id": 89,
+    "text": "Hati ini rapuh, tapi selalu pura-pura kuat. 😢",
+    "categoryId": 5
+  },
+  {
+    "id": 90,
+    "text": "Galau itu kayak hujan di malam sepi. 🌧️",
+    "categoryId": 5
+  },
+  {
+    "id": 91,
+    "text": "Aku nggak pernah siap kalau harus kehilangan lagi. 🥲",
+    "categoryId": 5
+  },
+  {
+    "id": 92,
+    "text": "Kadang galau bikin lupa kalau kita pantas bahagia. 😔",
+    "categoryId": 5
+  },
+  {
+    "id": 93,
+    "text": "Aku cuma pengen tenang, tapi pikiranku ribut. 😞",
+    "categoryId": 5
+  },
+  {
+    "id": 94,
+    "text": "Galau itu nangis tanpa alasan yang jelas. 😢",
+    "categoryId": 5
+  }
+]

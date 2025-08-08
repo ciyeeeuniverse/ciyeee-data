@@ -1,0 +1,487 @@
+[
+  {
+    "id": 1,
+    "text": "Jangan tunggu termotivasi, jalan dulu baru motivasi nyusul. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 2,
+    "text": "Capek itu wajar, nyerah jangan. 😎",
+    "categoryId": 7
+  },
+  {
+    "id": 3,
+    "text": "Mulai aja dulu, gagal itu urusan nanti. 🚀",
+    "categoryId": 7
+  },
+  {
+    "id": 4,
+    "text": "Sedikit-sedikit lama-lama jadi hasil besar. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 5,
+    "text": "Fokus ke proses, hasil bakal ikut. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 6,
+    "text": "Jangan cuma rebahan, rebahannya sambil mimpi gede. 😆",
+    "categoryId": 7
+  },
+  {
+    "id": 7,
+    "text": "Mimpi tanpa aksi cuma jadi hiasan tidur. 🌙",
+    "categoryId": 7
+  },
+  {
+    "id": 8,
+    "text": "Susah sekarang, nikmatin hasilnya nanti. 😌",
+    "categoryId": 7
+  },
+  {
+    "id": 9,
+    "text": "Kerja keras ngalahin hoki kalau konsisten. ⚡",
+    "categoryId": 7
+  },
+  {
+    "id": 10,
+    "text": "Jangan takut gagal, takutlah kalau nggak nyoba sama sekali. 🏃‍♂️",
+    "categoryId": 7
+  },
+  {
+    "id": 11,
+    "text": "Hari ini mager, besok nyesel. 😅",
+    "categoryId": 7
+  },
+  {
+    "id": 12,
+    "text": "Kesempatan itu dicari, bukan ditunggu. 🔍",
+    "categoryId": 7
+  },
+  {
+    "id": 13,
+    "text": "Orang sukses dulunya juga pemula. 💼",
+    "categoryId": 7
+  },
+  {
+    "id": 14,
+    "text": "Jangan bandingin startmu sama finish orang lain. 🏁",
+    "categoryId": 7
+  },
+  {
+    "id": 15,
+    "text": "Hidup itu naik turun, yang penting jangan berhenti. ⛰️",
+    "categoryId": 7
+  },
+  {
+    "id": 16,
+    "text": "Pelan tapi jalan, daripada kenceng tapi berhenti. 🚶‍♂️",
+    "categoryId": 7
+  },
+  {
+    "id": 17,
+    "text": "Kalau jatuh, bangun lagi. Simple. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 18,
+    "text": "Fokus sama tujuan, bukan omongan orang. 🎯",
+    "categoryId": 7
+  },
+  {
+    "id": 19,
+    "text": "Jangan takut mulai kecil, semua yang besar mulai dari nol. 🔢",
+    "categoryId": 7
+  },
+  {
+    "id": 20,
+    "text": "Lebih baik capek berjuang daripada nyesel di kemudian hari. 😎",
+    "categoryId": 7
+  },
+  {
+    "id": 21,
+    "text": "Semua butuh waktu, sabar plus usaha. ⏳",
+    "categoryId": 7
+  },
+  {
+    "id": 22,
+    "text": "Bangun pagi bukan cuma buat kerja, tapi buat masa depanmu. 🌞",
+    "categoryId": 7
+  },
+  {
+    "id": 23,
+    "text": "Mimpi gede harus diiringi usaha yang gede juga. 🚀",
+    "categoryId": 7
+  },
+  {
+    "id": 24,
+    "text": "Setiap gagal adalah progress, bukan akhir. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 25,
+    "text": "Berhenti bilang ‘nanti’, mulai bilang ‘sekarang’. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 26,
+    "text": "Jangan cuma nonton motivasi, jadiin motivasi. 😌",
+    "categoryId": 7
+  },
+  {
+    "id": 27,
+    "text": "Konsisten itu kunci, walau cuma dikit tapi tiap hari. 🔑",
+    "categoryId": 7
+  },
+  {
+    "id": 28,
+    "text": "Hidupmu nggak bakal berubah kalau nggak mulai gerak. 🏃‍♀️",
+    "categoryId": 7
+  },
+  {
+    "id": 29,
+    "text": "Kesuksesan butuh proses, bukan instan kayak mie. 🍜",
+    "categoryId": 7
+  },
+  {
+    "id": 30,
+    "text": "Jangan nunggu siap, jalan dulu baru siap di jalan. 😎",
+    "categoryId": 7
+  },
+  {
+    "id": 31,
+    "text": "Belajar dari kemarin, fokus ke hari ini. 📚",
+    "categoryId": 7
+  },
+  {
+    "id": 32,
+    "text": "Nggak apa-apa capek, yang penting nggak nyerah. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 33,
+    "text": "Mimpi tanpa aksi itu cuma ilusi. 🌈",
+    "categoryId": 7
+  },
+  {
+    "id": 34,
+    "text": "Gagal itu proses, nyerah itu pilihan. 😌",
+    "categoryId": 7
+  },
+  {
+    "id": 35,
+    "text": "Jangan remehkan langkah kecil, dia yang bikin maju. 🐾",
+    "categoryId": 7
+  },
+  {
+    "id": 36,
+    "text": "Orang hebat lahir dari proses yang berat. 🏋️‍♂️",
+    "categoryId": 7
+  },
+  {
+    "id": 37,
+    "text": "Lebih baik bergerak lambat daripada diem di tempat. 🚶‍♂️",
+    "categoryId": 7
+  },
+  {
+    "id": 38,
+    "text": "Kalah hari ini bukan berarti kalah selamanya. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 39,
+    "text": "Konsistensi lebih penting dari motivasi sesaat. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 40,
+    "text": "Kalau mau hasil berbeda, lakukan hal berbeda. 😎",
+    "categoryId": 7
+  },
+  {
+    "id": 41,
+    "text": "Jangan takut dicemooh, takutlah kalau nggak punya impian. 🎯",
+    "categoryId": 7
+  },
+  {
+    "id": 42,
+    "text": "Kebiasaan kecil bisa bikin hidupmu berubah besar. 🔑",
+    "categoryId": 7
+  },
+  {
+    "id": 43,
+    "text": "Nggak ada yang instan selain kopi. ☕",
+    "categoryId": 7
+  },
+  {
+    "id": 44,
+    "text": "Jangan tunggu sempurna, mulai aja dulu. 🚀",
+    "categoryId": 7
+  },
+  {
+    "id": 45,
+    "text": "Fokus ke dirimu sendiri, bukan drama orang lain. 😌",
+    "categoryId": 7
+  },
+  {
+    "id": 46,
+    "text": "Semakin sering gagal, semakin dekat sama berhasil. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 47,
+    "text": "Kalau capek istirahat, jangan berhenti. 🛌",
+    "categoryId": 7
+  },
+  {
+    "id": 48,
+    "text": "Disiplin itu lebih penting daripada semangat sesaat. ⏰",
+    "categoryId": 7
+  },
+  {
+    "id": 49,
+    "text": "Jangan malu mulai dari nol, semua orang pernah di sana. 🔢",
+    "categoryId": 7
+  },
+  {
+    "id": 50,
+    "text": "Setiap langkah kecil itu berarti. 🐾",
+    "categoryId": 7
+  },
+  {
+    "id": 51,
+    "text": "Semangat itu dibangun, bukan ditunggu. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 52,
+    "text": "Jangan cuma berharap, tapi bergerak. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 53,
+    "text": "Fokus ke tujuan, bukan masalah. 🎯",
+    "categoryId": 7
+  },
+  {
+    "id": 54,
+    "text": "Berjuang dulu, hasilnya nanti jadi cerita. 📖",
+    "categoryId": 7
+  },
+  {
+    "id": 55,
+    "text": "Setiap usaha pasti ada hasilnya, cepat atau lambat. ⏳",
+    "categoryId": 7
+  },
+  {
+    "id": 56,
+    "text": "Nggak ada kata telat buat mulai. 🚀",
+    "categoryId": 7
+  },
+  {
+    "id": 57,
+    "text": "Kerja kerasmu hari ini adalah senyummu besok. 😎",
+    "categoryId": 7
+  },
+  {
+    "id": 58,
+    "text": "Berhenti mager, mulai bergerak. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 59,
+    "text": "Nggak ada yang susah kalau dicoba terus. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 60,
+    "text": "Hidupmu tanggung jawabmu, jangan tunggu diselamatkan. 😌",
+    "categoryId": 7
+  },
+  {
+    "id": 61,
+    "text": "Konsisten lebih susah daripada semangat, tapi hasilnya nyata. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 62,
+    "text": "Jangan biarin rasa takut ngalahin rasa penasaranmu. 🤔",
+    "categoryId": 7
+  },
+  {
+    "id": 63,
+    "text": "Mimpi yang nggak diperjuangkan cuma jadi khayalan. 🌌",
+    "categoryId": 7
+  },
+  {
+    "id": 64,
+    "text": "Mulai dari yang ada, jangan tunggu yang sempurna. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 65,
+    "text": "Tiap hari adalah kesempatan baru. 🌞",
+    "categoryId": 7
+  },
+  {
+    "id": 66,
+    "text": "Gagal hari ini bukan berarti gagal selamanya. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 67,
+    "text": "Kerja keras sekarang, nikmatin nanti. 😎",
+    "categoryId": 7
+  },
+  {
+    "id": 68,
+    "text": "Nggak ada shortcut buat sukses. ⏳",
+    "categoryId": 7
+  },
+  {
+    "id": 69,
+    "text": "Belajar sabar itu bagian dari proses. 😌",
+    "categoryId": 7
+  },
+  {
+    "id": 70,
+    "text": "Kesuksesan bukan buat yang paling pinter, tapi yang paling gigih. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 71,
+    "text": "Jangan malu gagal, malu kalau nggak nyoba. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 72,
+    "text": "Buat tujuan yang jelas, biar nggak tersesat. 🎯",
+    "categoryId": 7
+  },
+  {
+    "id": 73,
+    "text": "Tindakan kecil lebih baik daripada rencana besar tanpa aksi. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 74,
+    "text": "Hari ini kamu males, besok kamu nyesel. 😆",
+    "categoryId": 7
+  },
+  {
+    "id": 75,
+    "text": "Kalau nggak mulai sekarang, kapan lagi? 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 76,
+    "text": "Hidupmu bakal berubah kalau kamu mau berubah. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 77,
+    "text": "Gagal itu guru, bukan musuh. 📚",
+    "categoryId": 7
+  },
+  {
+    "id": 78,
+    "text": "Jangan takut proses panjang, takutlah kalau diem terus. 🏃‍♂️",
+    "categoryId": 7
+  },
+  {
+    "id": 79,
+    "text": "Fokus sama yang bisa kamu kontrol. 🎯",
+    "categoryId": 7
+  },
+  {
+    "id": 80,
+    "text": "Setiap detik yang kamu buang nggak bakal balik. ⏳",
+    "categoryId": 7
+  },
+  {
+    "id": 81,
+    "text": "Bikin kebiasaan kecil yang bermanfaat tiap hari. 🔑",
+    "categoryId": 7
+  },
+  {
+    "id": 82,
+    "text": "Sukses itu nggak kebetulan. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 83,
+    "text": "Bangkit lagi meski jatuh berkali-kali. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 84,
+    "text": "Disiplin hari ini adalah kebebasan besok. 😎",
+    "categoryId": 7
+  },
+  {
+    "id": 85,
+    "text": "Berhenti mager, dunia nggak nungguin kamu. 😆",
+    "categoryId": 7
+  },
+  {
+    "id": 86,
+    "text": "Kalau nggak nyoba, kamu nggak bakal tau. 🤔",
+    "categoryId": 7
+  },
+  {
+    "id": 87,
+    "text": "Jangan cuma ngomong, buktiin. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 88,
+    "text": "Prosesmu lambat nggak masalah, yang penting jalan. 🚶‍♂️",
+    "categoryId": 7
+  },
+  {
+    "id": 89,
+    "text": "Kesempatan itu datang ke yang siap, bukan yang mager. 😌",
+    "categoryId": 7
+  },
+  {
+    "id": 90,
+    "text": "Sabar dan konsisten, hasilnya manis. 🍯",
+    "categoryId": 7
+  },
+  {
+    "id": 91,
+    "text": "Jangan bandingin dirimu sama orang lain, bandingin sama dirimu kemarin. 💯",
+    "categoryId": 7
+  },
+  {
+    "id": 92,
+    "text": "Setiap usaha kecilmu dihitung. 🔢",
+    "categoryId": 7
+  },
+  {
+    "id": 93,
+    "text": "Jangan berhenti sebelum bangga. 🔥",
+    "categoryId": 7
+  },
+  {
+    "id": 94,
+    "text": "Fokus ke perjalanan, jangan cuma ke tujuan. 🛤️",
+    "categoryId": 7
+  },
+  {
+    "id": 95,
+    "text": "Orang sukses itu bukan yang nggak pernah gagal, tapi yang nggak pernah nyerah. 💪",
+    "categoryId": 7
+  },
+  {
+    "id": 96,
+    "text": "Hari ini usaha, besok cerita. 📖",
+    "categoryId": 7
+  },
+  {
+    "id": 97,
+    "text": "Terus jalan, walau pelan. 🐢",
+    "categoryId": 7
+  }
+]

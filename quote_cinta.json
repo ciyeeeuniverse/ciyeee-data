@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "text": "Aku nggak butuh kata sempurna, asal bersamamu, semuanya terasa cukup.",
+    "categoryId": 2
+  },
+  {
+    "id": 2,
+    "text": "Cintaku sederhana, cukup kamu yang terakhir aku perjuangkan.",
+    "categoryId": 2
+  },
+  {
+    "id": 3,
+    "text": "Kalo kamu senyum, dunia kayak ikut bahagia.",
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "text": "Kamu itu rumah, tempat aku pulang dari semua ribetnya dunia.",
+    "categoryId": 2
+  },
+  {
+    "id": 5,
+    "text": "Sama kamu, hari biasa bisa jadi luar biasa.",
+    "categoryId": 2
+  },
+  {
+    "id": 6,
+    "text": "Cinta itu bukan tentang seberapa sering kamu bilang sayang, tapi seberapa besar kamu buktiin.",
+    "categoryId": 2
+  },
+  {
+    "id": 7,
+    "text": "Selalu ada kamu di setiap doa-doa rahasiaku.",
+    "categoryId": 2
+  },
+  {
+    "id": 8,
+    "text": "Aku nggak cari yang sempurna, aku cuma cari yang nggak ninggalin pas aku hancur.",
+    "categoryId": 2
+  },
+  {
+    "id": 9,
+    "text": "Kamu tuh kayak lagu favorit, selalu aku ulang-ulang tapi nggak pernah bosen.",
+    "categoryId": 2
+  },
+  {
+    "id": 10,
+    "text": "Cinta sejati itu bukan yang selalu indah, tapi yang tetap ada meski lagi susah.",
+    "categoryId": 2
+  },
+  {
+    "id": 11,
+    "text": "Senyuman kamu tuh candu, sekali liat susah move on.",
+    "categoryId": 2
+  },
+  {
+    "id": 12,
+    "text": "Kalau hati ini bisa bicara, dia bakal nyebut namamu terus.",
+    "categoryId": 2
+  },
+  {
+    "id": 13,
+    "text": "Kamu nggak harus ngertiin semuanya, cukup temenin aku saat aku ngerasa sendiri.",
+    "categoryId": 2
+  },
+  {
+    "id": 14,
+    "text": "Cinta nggak butuh alasan, yang penting aku bahagia pas deket kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 15,
+    "text": "Aku jatuh cinta sama caramu bikin aku ngerasa berarti.",
+    "categoryId": 2
+  },
+  {
+    "id": 16,
+    "text": "Nggak ada yang kebetulan, termasuk aku ketemu kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 17,
+    "text": "Kalau aku diem, bukan berarti nggak sayang. Aku cuma takut terlalu berharap.",
+    "categoryId": 2
+  },
+  {
+    "id": 18,
+    "text": "Kamu tuh alasan kenapa aku selalu senyum sendiri.",
+    "categoryId": 2
+  },
+  {
+    "id": 19,
+    "text": "Cinta itu bukan janji manis, tapi aksi nyata.",
+    "categoryId": 2
+  },
+  {
+    "id": 20,
+    "text": "Aku bukan orang paling romantis, tapi aku paling serius soal kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 21,
+    "text": "Jangan pergi, karena kamu satu-satunya yang aku pilih.",
+    "categoryId": 2
+  },
+  {
+    "id": 22,
+    "text": "Kalau cinta itu bahasa, maka kamu adalah kata yang paling indah.",
+    "categoryId": 2
+  },
+  {
+    "id": 23,
+    "text": "Bukan tentang berapa lama kita bareng, tapi gimana kita saling jaga.",
+    "categoryId": 2
+  },
+  {
+    "id": 24,
+    "text": "Kamu datang tanpa janji, tapi tinggal tanpa pamit.",
+    "categoryId": 2
+  },
+  {
+    "id": 25,
+    "text": "Aku rela jadi payung buat kamu yang selalu hujan di kepala.",
+    "categoryId": 2
+  },
+  {
+    "id": 26,
+    "text": "Sayang, aku nggak sempurna. Tapi buat kamu, aku mau belajar jadi lebih baik.",
+    "categoryId": 2
+  },
+  {
+    "id": 27,
+    "text": "Kamu tuh kayak wifi—kalau jauh, sinyal hatiku lemah.",
+    "categoryId": 2
+  },
+  {
+    "id": 28,
+    "text": "Gue udah coba jauh, tapi hati gue tetep lari ke lo.",
+    "categoryId": 2
+  },
+  {
+    "id": 29,
+    "text": "Cinta itu kayak kopi, kadang pahit, tapi bikin candu.",
+    "categoryId": 2
+  },
+  {
+    "id": 30,
+    "text": "Bersamamu, aku ngerasa cukup. Nggak perlu nyari yang lain.",
+    "categoryId": 2
+  },
+  {
+    "id": 31,
+    "text": "Satu senyummu bisa gantiin seribu masalahku.",
+    "categoryId": 2
+  },
+  {
+    "id": 32,
+    "text": "Cinta nggak harus mahal, yang penting tulus dan setia.",
+    "categoryId": 2
+  },
+  {
+    "id": 33,
+    "text": "Kalau aku bisa milih hidup lagi, aku tetap mau jatuh cinta sama kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 34,
+    "text": "Kadang aku cuma butuh pelukan, dari kamu, tanpa tanya kenapa.",
+    "categoryId": 2
+  },
+  {
+    "id": 35,
+    "text": "Kamu tuh tempat nyaman yang nggak bisa diganti siapa pun.",
+    "categoryId": 2
+  },
+  {
+    "id": 36,
+    "text": "Satu chat darimu bisa nyelametin hariku yang buruk.",
+    "categoryId": 2
+  },
+  {
+    "id": 37,
+    "text": "Kamu ngajarin aku apa itu sabar, sayang, dan kehilangan.",
+    "categoryId": 2
+  },
+  {
+    "id": 38,
+    "text": "Kalau bisa, aku pengen simpen kamu di kantong, biar nggak kemana-mana.",
+    "categoryId": 2
+  },
+  {
+    "id": 39,
+    "text": "Cinta itu sesimpel: aku, kamu, dan kita tetap bareng.",
+    "categoryId": 2
+  },
+  {
+    "id": 40,
+    "text": "Dunia ini ribut, tapi kamu bikin semuanya tenang.",
+    "categoryId": 2
+  },
+  {
+    "id": 41,
+    "text": "Kamu tuh definisi ‘pulang’ buat hati yang capek.",
+    "categoryId": 2
+  },
+  {
+    "id": 42,
+    "text": "Aku takut kehilangan kamu, bahkan pas kamu lagi di sampingku.",
+    "categoryId": 2
+  },
+  {
+    "id": 43,
+    "text": "Kamu tuh pilihan, bukan pelarian.",
+    "categoryId": 2
+  },
+  {
+    "id": 44,
+    "text": "Kalau sayang itu dosa, biarin aku berdosa tiap hari.",
+    "categoryId": 2
+  },
+  {
+    "id": 45,
+    "text": "Kamu seperti senja, selalu aku tunggu, meskipun sebentar.",
+    "categoryId": 2
+  },
+  {
+    "id": 46,
+    "text": "Kalau kamu nanya siapa yang paling aku sayang, jawabannya tetap kamu, meski kadang aku gengsi.",
+    "categoryId": 2
+  },
+  {
+    "id": 47,
+    "text": "Cinta itu bukan tentang siapa yang lebih dulu datang, tapi siapa yang mau bertahan.",
+    "categoryId": 2
+  },
+  {
+    "id": 48,
+    "text": "Aku nggak nyari cinta yang sempurna, cukup yang nggak nyerah pas kita sama-sama hancur.",
+    "categoryId": 2
+  },
+  {
+    "id": 49,
+    "text": "Kamu tuh alasan kenapa aku percaya cinta itu nyata.",
+    "categoryId": 2
+  },
+  {
+    "id": 50,
+    "text": "Kalau hati bisa milih, dari dulu aku udah pilih kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 51,
+    "text": "Yang aku butuh cuma kamu, nggak lebih, nggak kurang.",
+    "categoryId": 2
+  },
+  {
+    "id": 52,
+    "text": "Sayang itu bukan cuma kata, tapi hadir saat dibutuhin.",
+    "categoryId": 2
+  },
+  {
+    "id": 53,
+    "text": "Cinta itu kayak lilin, nyala kecil tapi bisa nerangin semuanya.",
+    "categoryId": 2
+  },
+  {
+    "id": 54,
+    "text": "Kamu tuh definisi dari ‘aku nggak nyangka bisa sesayang ini’.",
+    "categoryId": 2
+  },
+  {
+    "id": 55,
+    "text": "Kalau kamu bahagia, aku ikut seneng. Walaupun bukan aku yang bikin bahagia itu.",
+    "categoryId": 2
+  },
+  {
+    "id": 56,
+    "text": "Aku tuh bukan bucin, cuma terlalu nyaman kalau ada kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 57,
+    "text": "Cinta itu bukan posesif, tapi perhatian yang nggak lebay.",
+    "categoryId": 2
+  },
+  {
+    "id": 58,
+    "text": "Kamu tuh bikin aku pengen jadi versi terbaik dari diriku.",
+    "categoryId": 2
+  },
+  {
+    "id": 59,
+    "text": "Kamu bikin yang biasa jadi istimewa.",
+    "categoryId": 2
+  },
+  {
+    "id": 60,
+    "text": "Kita bukan pasangan paling romantis, tapi saling nggak ninggalin itu udah cukup.",
+    "categoryId": 2
+  },
+  {
+    "id": 61,
+    "text": "Kalau boleh minta satu hal, aku pengen kamu jangan pernah pergi.",
+    "categoryId": 2
+  },
+  {
+    "id": 62,
+    "text": "Cinta sejati itu yang tetap tinggal, pas semuanya hancur.",
+    "categoryId": 2
+  },
+  {
+    "id": 63,
+    "text": "Kadang aku iri sama orang yang bisa bikin kamu senyum.",
+    "categoryId": 2
+  },
+  {
+    "id": 64,
+    "text": "Cinta itu bukan milik yang sempurna, tapi milik yang mau saling ngerti.",
+    "categoryId": 2
+  },
+  {
+    "id": 65,
+    "text": "Aku sayang kamu, dan itu cukup buat alasan kenapa aku bertahan.",
+    "categoryId": 2
+  },
+  {
+    "id": 66,
+    "text": "Senyum kamu bisa bikin hati orang lain sembuh.",
+    "categoryId": 2
+  },
+  {
+    "id": 67,
+    "text": "Kalau cinta itu warna, kamu pelangiku di hari mendung.",
+    "categoryId": 2
+  },
+  {
+    "id": 68,
+    "text": "Kamu tuh bukan cuma harapan, tapi juga kenyataan.",
+    "categoryId": 2
+  },
+  {
+    "id": 69,
+    "text": "Cinta itu kayak jalan sepi, tapi kamu bikin aku betah jalanin bareng.",
+    "categoryId": 2
+  },
+  {
+    "id": 70,
+    "text": "Selalu ada ruang di hatiku buat kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 71,
+    "text": "Aku nggak pernah ngerti kenapa, tapi tiap lihat kamu, hati ini tenang.",
+    "categoryId": 2
+  },
+  {
+    "id": 72,
+    "text": "Kamu datang kayak hujan, tiba-tiba bikin adem dan basah hati.",
+    "categoryId": 2
+  },
+  {
+    "id": 73,
+    "text": "Cinta itu nggak selalu logis, makanya aku bisa sebegitunya sama kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 74,
+    "text": "Biarpun cuma lihat kamu sebentar, itu udah cukup buat bahagia seharian.",
+    "categoryId": 2
+  },
+  {
+    "id": 75,
+    "text": "Kamu itu alasan kenapa aku percaya pada kebetulan yang indah.",
+    "categoryId": 2
+  },
+  {
+    "id": 76,
+    "text": "Kalau besok dunia kiamat, aku tetap milih buat sayang sama kamu hari ini.",
+    "categoryId": 2
+  },
+  {
+    "id": 77,
+    "text": "Kamu tuh kayak charger buat hatiku yang lowbat.",
+    "categoryId": 2
+  },
+  {
+    "id": 78,
+    "text": "Kadang yang bikin aku kuat bukan semangat, tapi kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 79,
+    "text": "Mungkin kamu nggak sadar, tapi kamu yang bikin aku bertahan selama ini.",
+    "categoryId": 2
+  },
+  {
+    "id": 80,
+    "text": "Kalau cinta itu rasa, kamu tuh manis yang nggak bikin enek.",
+    "categoryId": 2
+  },
+  {
+    "id": 81,
+    "text": "Aku bukan pujangga, tapi hatiku puitis kalau soal kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 82,
+    "text": "Meskipun kita nggak selalu bareng, hatiku nggak pernah jauh dari kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 83,
+    "text": "Cinta itu bukan cuma tentang aku dan kamu, tapi tentang kita yang nggak nyerah.",
+    "categoryId": 2
+  },
+  {
+    "id": 84,
+    "text": "Kamu nggak minta dicintai, tapi aku tetap ngelakuinnya dengan tulus.",
+    "categoryId": 2
+  },
+  {
+    "id": 85,
+    "text": "Kamu tuh lebih dari cukup, bahkan terlalu berharga buat aku.",
+    "categoryId": 2
+  },
+  {
+    "id": 86,
+    "text": "Aku nggak takut sama kesepian, aku takut kehilangan kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 87,
+    "text": "Setiap kali kamu ngomong serius, hatiku jadi deg-degan kayak nonton ending sinetron.",
+    "categoryId": 2
+  },
+  {
+    "id": 88,
+    "text": "Cinta itu bukan milik yang sering ketemu, tapi yang nggak saling lupa.",
+    "categoryId": 2
+  },
+  {
+    "id": 89,
+    "text": "Kalau hati bisa nulis, mungkin namamu udah memenuhi semuanya.",
+    "categoryId": 2
+  },
+  {
+    "id": 90,
+    "text": "Aku pengen jadi alasan kamu pulang, bukan cuma mampir.",
+    "categoryId": 2
+  },
+  {
+    "id": 91,
+    "text": "Kalau kamu bahagia, aku ikhlas walau bukan aku penyebabnya.",
+    "categoryId": 2
+  },
+  {
+    "id": 92,
+    "text": "Cinta itu nggak selalu indah, tapi selalu bermakna saat kamu di dalamnya.",
+    "categoryId": 2
+  },
+  {
+    "id": 93,
+    "text": "Cinta yang bener tuh bukan yang paling manis, tapi yang tetap ada pas pahit.",
+    "categoryId": 2
+  },
+  {
+    "id": 94,
+    "text": "Kamu bikin aku percaya bahwa cinta itu nggak harus dicari, kadang cukup ditemukan.",
+    "categoryId": 2
+  },
+  {
+    "id": 95,
+    "text": "Bersamamu, aku ngerasa jadi versi terbaik dari diriku.",
+    "categoryId": 2
+  },
+  {
+    "id": 96,
+    "text": "Kamu tuh bukan pelengkap, kamu tuh pusatnya.",
+    "categoryId": 2
+  },
+  {
+    "id": 97,
+    "text": "Satu hal yang pasti: hatiku udah milik kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 98,
+    "text": "Cinta itu bukan kebetulan, tapi keputusan. Dan aku milih kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 99,
+    "text": "Kadang aku takut terlalu sayang, tapi lebih takut kehilangan kamu.",
+    "categoryId": 2
+  },
+  {
+    "id": 100,
+    "text": "Semakin aku kenal kamu, semakin aku yakin kamu yang aku mau.",
+    "categoryId": 2
+  }
+]

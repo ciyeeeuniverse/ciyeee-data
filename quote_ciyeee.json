@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "text": "Ciyeee… yang lagi senyum baca ini 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 2,
+    "text": "Ciyeee… yang kalau chat lama balesnya tapi kangen berat 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 3,
+    "text": "Ciyeee… tiap liat dia langsung auto bahagia 💕",
+    "categoryId": 3
+  },
+  {
+    "id": 4,
+    "text": "Ciyeee… yang kalau dikasih perhatian dikit langsung meleleh 🫠",
+    "categoryId": 3
+  },
+  {
+    "id": 5,
+    "text": "Ciyeee… yang suka stalking diam-diam 👀",
+    "categoryId": 3
+  },
+  {
+    "id": 6,
+    "text": "Ciyeee… yang kangen tapi gengsi bilang 😎",
+    "categoryId": 3
+  },
+  {
+    "id": 7,
+    "text": "Ciyeee… kalau ketemu crush deg-degan kayak mau ujian 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 8,
+    "text": "Ciyeee… tiap ada notif harap-harap cemas 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 9,
+    "text": "Ciyeee… yang bilang 'nggak apa-apa' padahal ngarep 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 10,
+    "text": "Ciyeee… yang pura-pura cuek padahal perhatian 😜",
+    "categoryId": 3
+  },
+  {
+    "id": 11,
+    "text": "Ciyeee… senyum-senyum sendiri baca chat dia 😁",
+    "categoryId": 3
+  },
+  {
+    "id": 12,
+    "text": "Ciyeee… yang kalau ditatap balik langsung salah tingkah 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 13,
+    "text": "Ciyeee… tiap liat story dia langsung reply 👋",
+    "categoryId": 3
+  },
+  {
+    "id": 14,
+    "text": "Ciyeee… yang bilang benci tapi nyariin terus 🥰",
+    "categoryId": 3
+  },
+  {
+    "id": 15,
+    "text": "Ciyeee… yang kalau dipanggil namanya auto noleh 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 16,
+    "text": "Ciyeee… udah deket tapi belum jadian 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 17,
+    "text": "Ciyeee… yang kalau dibilang cantik/ganteng pura-pura nolak 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 18,
+    "text": "Ciyeee… lagi nunggu chat balasan ya? 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 19,
+    "text": "Ciyeee… kalau dibilang kangen auto senyum 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 20,
+    "text": "Ciyeee… yang diam-diam suka fotoin doi 😁",
+    "categoryId": 3
+  },
+  {
+    "id": 21,
+    "text": "Ciyeee… kalau ditatap balik jadi salah tingkah 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 22,
+    "text": "Ciyeee… yang bilang 'ih apaan sih' tapi seneng 🥰",
+    "categoryId": 3
+  },
+  {
+    "id": 23,
+    "text": "Ciyeee… kalau ketemu diem, tapi di chat rame 😎",
+    "categoryId": 3
+  },
+  {
+    "id": 24,
+    "text": "Ciyeee… yang suka ngetik panjang terus dihapus 🫣",
+    "categoryId": 3
+  },
+  {
+    "id": 25,
+    "text": "Ciyeee… yang suka nyari alasan biar ketemu doi 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 26,
+    "text": "Ciyeee… lagi nyari caption buat story ya? 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 27,
+    "text": "Ciyeee… kalau lagi galau langsung dengerin lagu mellow 🎶",
+    "categoryId": 3
+  },
+  {
+    "id": 28,
+    "text": "Ciyeee… yang suka curi-curi pandang 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 29,
+    "text": "Ciyeee… kalau di-like sama doi auto heboh 🥳",
+    "categoryId": 3
+  },
+  {
+    "id": 30,
+    "text": "Ciyeee… lagi stalking IG siapa tuh 👀",
+    "categoryId": 3
+  },
+  {
+    "id": 31,
+    "text": "Ciyeee… yang bilang nggak peduli tapi kepo 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 32,
+    "text": "Ciyeee… tiap denger nama doi langsung senyum 😊",
+    "categoryId": 3
+  },
+  {
+    "id": 33,
+    "text": "Ciyeee… yang kalau diingetin makan langsung baper 😋",
+    "categoryId": 3
+  },
+  {
+    "id": 34,
+    "text": "Ciyeee… yang suka nge-chat duluan tapi pura-pura nggak 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 35,
+    "text": "Ciyeee… kalau di-PHP-in tetep stay 🥲",
+    "categoryId": 3
+  },
+  {
+    "id": 36,
+    "text": "Ciyeee… yang lagi nungguin ucapan selamat pagi ☀️",
+    "categoryId": 3
+  },
+  {
+    "id": 37,
+    "text": "Ciyeee… yang suka kode-kode di story 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 38,
+    "text": "Ciyeee… kalau di-notice crush bahagianya seharian 😁",
+    "categoryId": 3
+  },
+  {
+    "id": 39,
+    "text": "Ciyeee… yang bilang nggak apa-apa tapi chat temen curhat 🤣",
+    "categoryId": 3
+  },
+  {
+    "id": 40,
+    "text": "Ciyeee… yang kalau di-ghosting masih berharap 😢",
+    "categoryId": 3
+  },
+  {
+    "id": 41,
+    "text": "Ciyeee… yang suka screenshot chat penting 😎",
+    "categoryId": 3
+  },
+  {
+    "id": 42,
+    "text": "Ciyeee… lagi nunggu siapa tuh yang ngetik… 🫣",
+    "categoryId": 3
+  },
+  {
+    "id": 43,
+    "text": "Ciyeee… yang kalo dibilang lucu malah tambah malu 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 44,
+    "text": "Ciyeee… tiap liat doi online langsung deg-degan 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 45,
+    "text": "Ciyeee… yang suka curhat di close friend 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 46,
+    "text": "Ciyeee… yang bilang move on tapi masih mantau 👀",
+    "categoryId": 3
+  },
+  {
+    "id": 47,
+    "text": "Ciyeee… kalau denger suara doi langsung happy 😍",
+    "categoryId": 3
+  },
+  {
+    "id": 48,
+    "text": "Ciyeee… yang suka liat foto lama doi 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 49,
+    "text": "Ciyeee… lagi senyum gara-gara inget doi kan? 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 50,
+    "text": "Ciyeee… kalau dibilang mirip doi seneng banget 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 51,
+    "text": "Ciyeee… yang suka bilang 'ih apaan sih' tapi nggak marah 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 52,
+    "text": "Ciyeee… lagi pura-pura nggak peduli ya? 😎",
+    "categoryId": 3
+  },
+  {
+    "id": 53,
+    "text": "Ciyeee… yang suka bilang nggak kangen padahal kangen banget 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 54,
+    "text": "Ciyeee… yang suka kirim meme lucu biar di-notice 😁",
+    "categoryId": 3
+  },
+  {
+    "id": 55,
+    "text": "Ciyeee… tiap denger lagu favorit doi langsung keinget 😍",
+    "categoryId": 3
+  },
+  {
+    "id": 56,
+    "text": "Ciyeee… yang suka salah tingkah kalau dipuji 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 57,
+    "text": "Ciyeee… lagi liat foto doi diam-diam ya? 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 58,
+    "text": "Ciyeee… kalau dibilang mirip pasangan orang senyum-senyum 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 59,
+    "text": "Ciyeee… yang suka baca chat lama sebelum tidur 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 60,
+    "text": "Ciyeee… yang lagi mikirin doi sekarang 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 61,
+    "text": "Ciyeee… kalau di-chat doi auto cepat bales 😁",
+    "categoryId": 3
+  },
+  {
+    "id": 62,
+    "text": "Ciyeee… yang bilang nggak butuh doi padahal nggak bisa lepas 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 63,
+    "text": "Ciyeee… tiap denger ringtone WA langsung cek hp 🤣",
+    "categoryId": 3
+  },
+  {
+    "id": 64,
+    "text": "Ciyeee… yang suka nyimpen foto doi di folder rahasia 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 65,
+    "text": "Ciyeee… kalau di-tag di story auto happy 😍",
+    "categoryId": 3
+  },
+  {
+    "id": 66,
+    "text": "Ciyeee… yang bilang udah biasa tapi tetep deg-degan 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 67,
+    "text": "Ciyeee… tiap ketemu doi cuma bisa senyum-senyum 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 68,
+    "text": "Ciyeee… yang kalau dia online pura-pura nggak liat 😎",
+    "categoryId": 3
+  },
+  {
+    "id": 69,
+    "text": "Ciyeee… yang lagi pura-pura sibuk biar keliatan cuek 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 70,
+    "text": "Ciyeee… kalau tiba-tiba kangen langsung scroll chat lama 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 71,
+    "text": "Ciyeee… tiap denger nama doi diobrolin langsung pasang telinga 👂",
+    "categoryId": 3
+  },
+  {
+    "id": 72,
+    "text": "Ciyeee… yang suka kasih like diam-diam di postingan lama 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 73,
+    "text": "Ciyeee… lagi nungguin siapa nih yang nyapa duluan? 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 74,
+    "text": "Ciyeee… yang suka kode tapi takut ketauan 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 75,
+    "text": "Ciyeee… tiap liat doi ketawa auto baper 😍",
+    "categoryId": 3
+  },
+  {
+    "id": 76,
+    "text": "Ciyeee… lagi nggak ngaku tapi kepikiran terus kan? 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 77,
+    "text": "Ciyeee… kalau dibilang manis pura-pura nggak terima 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 78,
+    "text": "Ciyeee… yang tiap malem suka senyum-senyum sendiri 😁",
+    "categoryId": 3
+  },
+  {
+    "id": 79,
+    "text": "Ciyeee… kalau di-notice langsung cerita ke temen 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 80,
+    "text": "Ciyeee… yang lagi bahagia gara-gara hal kecil 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 81,
+    "text": "Ciyeee… tiap ada notif harapannya doi 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 82,
+    "text": "Ciyeee… yang suka spam like biar di-notice 😎",
+    "categoryId": 3
+  },
+  {
+    "id": 83,
+    "text": "Ciyeee… lagi nyari alasan buat chat doi ya? 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 84,
+    "text": "Ciyeee… kalau di-PHP-in masih berharap 🤣",
+    "categoryId": 3
+  },
+  {
+    "id": 85,
+    "text": "Ciyeee… yang suka bilang bodo amat tapi kepo 👀",
+    "categoryId": 3
+  },
+  {
+    "id": 86,
+    "text": "Ciyeee… tiap ketemu auto salah tingkah 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 87,
+    "text": "Ciyeee… yang suka ketawa sendiri gara-gara chat doi 😁",
+    "categoryId": 3
+  },
+  {
+    "id": 88,
+    "text": "Ciyeee… lagi dengerin lagu galau gara-gara doi 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 89,
+    "text": "Ciyeee… kalau diucapin selamat pagi auto senyum 😝",
+    "categoryId": 3
+  },
+  {
+    "id": 90,
+    "text": "Ciyeee… yang suka pura-pura nggak sengaja like 😏",
+    "categoryId": 3
+  },
+  {
+    "id": 91,
+    "text": "Ciyeee… lagi stalking Twitter doi sekarang kan? 😎",
+    "categoryId": 3
+  },
+  {
+    "id": 92,
+    "text": "Ciyeee… kalau di-senyumin doi langsung salting 😳",
+    "categoryId": 3
+  },
+  {
+    "id": 93,
+    "text": "Ciyeee… yang suka bilang cuek tapi hatinya meleleh 😆",
+    "categoryId": 3
+  },
+  {
+    "id": 94,
+    "text": "Ciyeee… tiap liat pasangan lain langsung keinget doi 😌",
+    "categoryId": 3
+  },
+  {
+    "id": 95,
+    "text": "Ciyeee… yang lagi mikir 'kok aku banget ya ini' 🤭",
+    "categoryId": 3
+  },
+  {
+    "id": 96,
+    "text": "Ciyeee… kalau di-notice doi bahagianya nggak ketolong 😍",
+    "categoryId": 3
+  }
+]
