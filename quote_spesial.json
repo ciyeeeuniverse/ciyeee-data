@@ -1,472 +1,427 @@
 [
   {
     "id": 1,
-    "text": "Lucu ya, kita saling nyakitin tapi sama-sama nggak bisa pergi. 🖤",
+    "text": "Ada seseorang yang tidak pernah mengirimi kamu sebuah pesan, tapi dia diam-diam menjadikanmu sebagai tujuan",
     "categoryId": 12
   },
   {
     "id": 2,
-    "text": "Kita kayak racun buat satu sama lain, tapi tetep diminum tiap hari. 💔",
+    "text": "Impianku sederhana. Ingin mencintai dan dicintai olehmu, hingga kita lupa rasa kecewa",
     "categoryId": 12
   },
   {
     "id": 3,
-    "text": "Hubungan kita penuh drama, tapi entah kenapa rasanya candu. 😞",
+    "text": "Tadinya, kuberharap hadirmu bisa menjadi obat. Tapi ternyata, kamu malah menciptakan luka yang paling hebat",
     "categoryId": 12
   },
   {
     "id": 4,
-    "text": "Aku tau ini salah, tapi hati ini selalu balik lagi ke kamu. 🥀",
+    "text": "Semua orang bisa berkata Aku Mencintaimu. Tapi, tidak semua orang mampu menunggu dan membuktikan kata-katanya itu",
     "categoryId": 12
   },
   {
     "id": 5,
-    "text": "Kamu bikin aku nangis berkali-kali, tapi aku masih milih tinggal. 😔",
+    "text": "Jangan main-main dengan perasaanku. Hatiku memang tak bertulang, tapi tetap bisa merasakan patah",
     "categoryId": 12
   },
   {
     "id": 6,
-    "text": "Kita saling sayang, tapi juga saling hancurin pelan-pelan. 🖤",
+    "text": "Cukup menjadi sederhana, lalu lihat siapa yang datang padamu dengan penuh cinta dan menarimamu apa adanya",
     "categoryId": 12
   },
   {
     "id": 7,
-    "text": "Aku nggak tau kenapa kita tetep bertahan, padahal bahagia cuma sebentar. 💔",
+    "text": "Semua orang bisa menemani. Tapi tidak semua orang bisa memahami",
     "categoryId": 12
   },
   {
     "id": 8,
-    "text": "Setiap kita deket, rasanya hangat. Setiap kita jauh, rasanya bebas. 😞",
+    "text": "Semoga tidak ada lagi perasaan yang mudah tertarik, hanya karena diperlakukan baik",
     "categoryId": 12
   },
   {
     "id": 9,
-    "text": "Kamu bilang cinta, tapi tindakanmu selalu nyakitin. 🥀",
+    "text": "Aku tidak akan pernah meneteskan air mata, untuk dia yang tidak setia",
     "categoryId": 12
   },
   {
     "id": 10,
-    "text": "Aku selalu maafin, meski dalam hati tau aku lagi nyakitin diri sendiri. 🖤",
+    "text": "Banyak orang berkata, jika cinta, pasti dia akan kembali. Tapi harusnya, jika cinta, dia tidak akan pergi",
     "categoryId": 12
   },
   {
     "id": 11,
-    "text": "Kita ketawa bareng, tapi juga nangis sendirian masing-masing. 💔",
+    "text": "Faktanya, cinta itu tak pernah buta. Kamunya saja yang suka melumpuhkan logika",
     "categoryId": 12
   },
   {
     "id": 12,
-    "text": "Aku tau kamu nggak baik buat aku, tapi aku tetep nggak bisa pergi. 😔",
+    "text": "Bukan waktumu yang kurang. Tapi, rasa cintamu saja yang telah hilang",
     "categoryId": 12
   },
   {
     "id": 13,
-    "text": "Hubungan kita kayak roller coaster: seru, tapi bikin mual. 🎢",
+    "text": "Kukira air mataku menetes karena mengiris bawang. Ternyata teringat kamu yang telah menghilang",
     "categoryId": 12
   },
   {
     "id": 14,
-    "text": "Kamu datang pas butuh, pergi pas aku yang butuh. 🥀",
+    "text": "Aku nyaris tahu segala hal. Yang tidak kutahu, adalah cara berhenti mencintaimu",
     "categoryId": 12
   },
   {
     "id": 15,
-    "text": "Kita saling ketergantungan, tapi bukan saling membahagiakan. 🖤",
+    "text": "Aku rindu. Rindu ingin melihat pelangi yang terukir indah di sudut bibirmu, saat kamu tersenyum",
     "categoryId": 12
   },
   {
     "id": 16,
-    "text": "Aku tau aku cuma pilihan cadangan, tapi tetep bertahan karena sayang. 💔",
+    "text": "Dia yang benar-benar mencintaimu, tak akan pernah membiarkan hatimu terbalut sendu",
     "categoryId": 12
   },
   {
     "id": 17,
-    "text": "Kamu bikin aku gila, tapi aku nggak mau sembuh. 😞",
+    "text": "Aku terlalu kecil untuk semua harapanmu yang kian membesar. Tapi percayalah, kamu selalu besar di hati kecilku",
     "categoryId": 12
   },
   {
     "id": 18,
-    "text": "Kita lebih sering berantem daripada ketawa bareng, tapi tetep bareng. 🥀",
+    "text": "pada akhirnya, yang berjodoh pasti akan bersatu, meski awalnya tidak saling merajut rindu",
     "categoryId": 12
   },
   {
     "id": 19,
-    "text": "Cinta ini capek, tapi entah kenapa susah berhenti. 🖤",
+    "text": "Cuman liat atap rumahnya aja dari jauh, senangnya udah kebangetan. Cinta... terkadang emang bisa seajaib itu",
     "categoryId": 12
   },
   {
     "id": 20,
-    "text": "Kamu tau aku bakal selalu ada, makanya kamu seenaknya. 💔",
+    "text": "Semoga hatimu yang baik, berada di tangan yang baik pula",
     "categoryId": 12
   },
   {
     "id": 21,
-    "text": "Aku marah, kamu minta maaf, kita baikan, terus ulang lagi. 😔",
+    "text": "Jangan ngambil keputusan waktu lagi marah. Inget gimana bahagianya kita kalo lagi bareng",
     "categoryId": 12
   },
   {
     "id": 22,
-    "text": "Kita saling tarik-ulur, sampai lupa cara saling peluk. 🥀",
+    "text": "Kangen era ditelpon tiap malam. Ngobrol ga jelas, ceritain keseharian, ketawa-ketawa karena hal ga penting dan saling nyalahin karena telponnya mati",
     "categoryId": 12
   },
   {
     "id": 23,
-    "text": "Aku tau kita nggak sehat, tapi hati ini udah terlalu dalam. 🖤",
+    "text": "Terima kasih untuk sebentar yang semenyenangkan itu",
     "categoryId": 12
   },
   {
     "id": 24,
-    "text": "Setiap hari drama, tapi kita kayak candu sama rasa sakitnya. 💔",
+    "text": "Laki-laki selalu kehilangan perempuan yang benar-benar ingin mereka nikahi",
     "categoryId": 12
   },
   {
     "id": 25,
-    "text": "Aku berusaha kuat, padahal kamu yang bikin aku jatuh. 😞",
+    "text": "Ga mau terlalu excited lagi. Malu. Respons kamunya juga kaya yang ga niat",
     "categoryId": 12
   },
   {
     "id": 26,
-    "text": "Kita nggak saling lepas, tapi juga nggak benar-benar saling pegang. 🥀",
+    "text": "Udah dewasa. Kalau pesanku dibalas lama, ga akan balik balas lama. Asal pegang hp dan notifnya muncul pasti langsung kubalas. Bentuk sederhana dari menghargai",
     "categoryId": 12
   },
   {
     "id": 27,
-    "text": "Cinta kita kayak api: hangat tapi bisa bakar habis. 🔥",
+    "text": "Luka yang serius, berawal dari hati yang tulus",
     "categoryId": 12
   },
   {
     "id": 28,
-    "text": "Kamu bilang peduli, tapi selalu bikin aku ngerasa sendirian. 🖤",
+    "text": "Mau setulus apa pun laki-laki, wanita tidak suka pria miskin",
     "categoryId": 12
   },
   {
     "id": 29,
-    "text": "Kita saling capek, tapi juga saling cari. 💔",
+    "text": "Dia pernah bercerita disakiti oleh masa lalunya. Tapi, kenapa dia kini menyakiti orang yang menyembuhkannya",
     "categoryId": 12
   },
   {
     "id": 30,
-    "text": "Aku tau hubungan ini nggak sehat, tapi terlalu takut kehilanganmu. 😔",
+    "text": "Cinta paling tulus adalah ketika kamu sudah tau bahwa dia masih mengingat masa lalunya di belakangmu, tapi kamu masih menerima dan  mencintainya dengan baik",
     "categoryId": 12
   },
   {
     "id": 31,
-    "text": "Kita berdua keras kepala, tapi hati ini lemah kalau soal kamu. 🥀",
+    "text": "Aku baru tau ternyata ada manusia yang lebih memilih kehilangan pasangannya, dibandingkan mengubah sikapnya untuk bertahan",
     "categoryId": 12
   },
   {
     "id": 32,
-    "text": "Kamu dateng bawa bahagia, pergi bawa luka. 🖤",
+    "text": "Ya udah sih. Lagian kita cuma chatan, ga ada status. Terserah dia mau ngedeketin orang lain. Hak dia buat milih orang yang dia suka",
     "categoryId": 12
   },
   {
     "id": 33,
-    "text": "Kita saling jatuh cinta dan saling jatuhin hati. 💔",
+    "text": "Semoga di kesempatan lain, cintaku lebih dihargai",
     "categoryId": 12
   },
   {
     "id": 34,
-    "text": "Aku selalu bilang 'gapapa', padahal semuanya nggak papa. 😞",
+    "text": "Asing aja lah ya. Energi gw ga sebanyak itu buat pertahanin orang yang ga jelas",
     "categoryId": 12
   },
   {
     "id": 35,
-    "text": "Hubungan ini kayak perang dingin, nggak ada yang menang. 🥀",
+    "text": "Hidup cuma sekali. Aku ga mau bersaing dengan perempuan mana pun tentang laki-laki",
     "categoryId": 12
   },
   {
     "id": 36,
-    "text": "Kamu bikin aku nangis, tapi aku selalu nunggu kamu balik. 🖤",
+    "text": "Alasanku ga pernah marahin atau bentak cewekku bukan karena aku ga berani. Tapi aku rasa cukup dia alamin di waktu dulu, dan dia pantas rasain sayang yang lembut dan sabar",
     "categoryId": 12
   },
   {
     "id": 37,
-    "text": "Kita saling ketergantungan, tapi nggak saling sembuhin. 💔",
+    "text": "Serem njir, chatan sama kamu. Notifnya di hp, tapi getarnya di hati (Eaaaakkkk....)",
     "categoryId": 12
   },
   {
     "id": 38,
-    "text": "Aku capek, tapi kalau pergi rasanya lebih sakit. 😔",
+    "text": "Apakah setelah jauh sekali, manusia bisa saling menemukan lagi?",
     "categoryId": 12
   },
   {
     "id": 39,
-    "text": "Kamu minta pengertian, tapi nggak pernah ngerti aku. 🥀",
+    "text": "Aku tidak mahir mengejar, tapi aku tahu cara menunggumu",
     "categoryId": 12
   },
   {
     "id": 40,
-    "text": "Kita lebih sering sakit daripada sehat, tapi tetep bareng. 🖤",
+    "text": "Tugasku hanya mencintaimu. Ditipu atau dicurangi itu pilihanmu. Cuma satu pesanku: jangan sia-siakan orang yang tulus mencintaimu",
     "categoryId": 12
   },
   {
     "id": 41,
-    "text": "Aku tau kamu nggak serius, tapi hati ini masih berharap. 💔",
+    "text": "Ternyata nyaman tanpa jadian itu beneran ada ya. Kayak aku sayang sama kamu, tapi aku tau kita ga bisa bersama",
     "categoryId": 12
   },
   {
     "id": 42,
-    "text": "Hubungan ini kayak lingkaran, muter di masalah yang sama. 🔄",
+    "text": "2 hal yang sampai saat ini belum serasi: mataku yang memandangimu sebagai teman, sedangkan hatiku yang menatapmu penuh perasaan",
     "categoryId": 12
   },
   {
     "id": 43,
-    "text": "Kamu sering hilang, tapi aku selalu nyari. 😞",
+    "text": "Dikasih yang terbaik. Diuji dengan jarak. Kangennya gratis. Ketemuannya mahal",
     "categoryId": 12
   },
   {
     "id": 44,
-    "text": "Kita saling punya, tapi kayak nggak pernah cukup. 🥀",
+    "text": "Semenjak sama dia, gw cemburunya ga ngotak. Semuanya gw cemburuin. Ditinggal dikit aja berasa ga disayang lagi",
     "categoryId": 12
   },
   {
     "id": 45,
-    "text": "Aku maafin semua kesalahanmu, tapi kamu nggak pernah berubah. 🖤",
+    "text": "Pengen berak tapi bosen sama gayanya yang jongkok mulu. Saran gaya berak yang estetik dong",
     "categoryId": 12
   },
   {
     "id": 46,
-    "text": "Kita tau ini toxic, tapi kita candu. 💔",
+    "text": "Perempuan tidak bercerita. Tapi dia menikah dengan pria yang tidak dia cintai demi hidup sejahtera",
     "categoryId": 12
   },
   {
     "id": 47,
-    "text": "Aku selalu jatuh di tempat yang sama, namanya kamu. 😔",
+    "text": "Siapa sangka 2 pasang mata yang saling menghindar hari ini, dulunya saling menatap penuh cinta",
     "categoryId": 12
   },
   {
     "id": 48,
-    "text": "Kamu datang bawa senyum, pergi bawa air mata. 🥀",
+    "text": "Cape tauuu. Kadang kamu kelihatan cinta banget. Kadang juga kamu kelihatan ga butuh aku sama sekali",
     "categoryId": 12
   },
   {
     "id": 49,
-    "text": "Kita bukan bahagia, kita cuma terbiasa. 🖤",
+    "text": "Udah mulai cocok eh, tiba-tiba ngajakin telat-telatan balas chat",
     "categoryId": 12
   },
   {
     "id": 50,
-    "text": "Aku tau aku harus pergi, tapi kaki ini nggak bisa jalan. 💔",
+    "text": "Semoga denganmu tidak hanya lama, tetapi selamanya",
     "categoryId": 12
   },
   {
     "id": 51,
-    "text": "Kita nggak saling lepas, tapi saling nyakitin. 😞",
+    "text": "Saya melihat anak muda menjadi hancur, karena terlalu dini memainkan peran suami",
     "categoryId": 12
   },
   {
     "id": 52,
-    "text": "Kamu bilang sayang, tapi selalu bikin sakit. 🥀",
+    "text": "Mau bilang KANGEN, tapi takut dijawab pretttt",
     "categoryId": 12
   },
   {
     "id": 53,
-    "text": "Kita lebih sering saling curiga daripada percaya. 🖤",
+    "text": "Batasi harapanmu, agar lukamu tidak berlebihan",
     "categoryId": 12
   },
   {
     "id": 54,
-    "text": "Aku capek nangis, tapi juga takut kehilanganmu. 💔",
+    "text": "Sejak aku mengenal dirimu, aku sudah tidak tertarik lagi sama orang lain",
     "categoryId": 12
   },
   {
     "id": 55,
-    "text": "Hubungan ini kayak racun yang manis. 😔",
+    "text": "Pelan pelan juga nanti akan terbiasa tanpa chat, tanpa telpon dan tanpa kabar. Dan pada akhirnya kita saling melupakan. Seperti ini kan yang kamu mau? Akan kuusahakan dan pasti bisa",
     "categoryId": 12
   },
   {
     "id": 56,
-    "text": "Kamu pergi, aku nunggu. Kamu balik, aku maafin. 🥀",
+    "text": "Aku adalah yang tidak akan pernah datang 2 kali",
     "categoryId": 12
   },
   {
     "id": 57,
-    "text": "Kita nggak sehat, tapi saling butuh. 🖤",
+    "text": "Kamu ga ngerti dan aku ga bisa ngejelasin",
     "categoryId": 12
   },
   {
     "id": 58,
-    "text": "Aku selalu berharap kamu berubah, tapi selalu kecewa. 💔",
+    "text": "Teruslah seperti itu, sampai rasaku benar-benar hilang",
     "categoryId": 12
   },
   {
     "id": 59,
-    "text": "Kita saling cinta, tapi juga saling hancurin. 😞",
+    "text": "Perempuan selalu jatuh cinta pada pria yang mengabaikannya, bukan pada pria yang memberikan segalanya",
     "categoryId": 12
   },
   {
     "id": 60,
-    "text": "Kamu nggak pernah bener-bener ada, tapi aku selalu nunggu. 🥀",
+    "text": "Dia mau diseriusin, tapi semua cowok direspons",
     "categoryId": 12
   },
   {
     "id": 61,
-    "text": "Hubungan ini cuma siklus sakit yang berulang. 🔄",
+    "text": "Tinggalkan saja aku jika kamu tak sanggup menghadapiku. Aku juga lelah dengan diriku sendiri",
     "categoryId": 12
   },
   {
     "id": 62,
-    "text": "Aku sayang kamu, tapi aku juga sakit sama kamu. 🖤",
+    "text": "Seseorang akan seenaknya saja, saat tau dirinya dicintai",
     "categoryId": 12
   },
   {
     "id": 63,
-    "text": "Kita ketawa bareng di luar, tapi nangis sendiri di kamar. 💔",
+    "text": "Andai kamu tau betapa gilanya aku ingin mengubah diriku supaya jadi versi yang terbaik buat kamu",
     "categoryId": 12
   },
   {
     "id": 64,
-    "text": "Kamu tau aku nggak bisa pergi, makanya kamu santai. 😔",
+    "text": "Mentang-mentang wajahku tampan, kamu seenaknya aja sayang sama aku",
     "categoryId": 12
   },
   {
     "id": 65,
-    "text": "Kita saling tarik-menarik sampai sama-sama capek. 🥀",
+    "text": "Untukmu yang sedang dimusuhi oleh kehidupan, aku ingin mengatakan: bersabarlah. karena di balik setiap kesedihan, selalu tersimpan senyuman yang menunggu giliran",
     "categoryId": 12
   },
   {
     "id": 66,
-    "text": "Aku tau ini salah, tapi cinta bikin aku bodoh. 🖤",
+    "text": "Aku selalu suka berjalan di bawah hujan, karena tidak akan ada orang yang tau kalau aku sedang menangis",
     "categoryId": 12
   },
   {
     "id": 67,
-    "text": "Kita saling punya tapi nggak pernah saling tenang. 💔",
+    "text": "Tadinya kupikir kamu mencintaiku. Tapi ternyata, itu hanyalah ilusi hati yang menipu otak",
     "categoryId": 12
   },
   {
     "id": 68,
-    "text": "Kamu datang dan pergi sesuka hati, dan aku selalu nunggu. 😞",
+    "text": "Begitu banyak rasa yang tak terungkap. Mengendap di sudut hatiku yang gelap",
     "categoryId": 12
   },
   {
     "id": 69,
-    "text": "Hubungan ini kayak candu yang bikin sakit. 🥀",
+    "text": "Selepas kepergianmu, hatiku terbalut sendu. Rasa sakit ini, entah kenapa begitu setia menemani jantungku berdetak",
     "categoryId": 12
   },
   {
     "id": 70,
-    "text": "Aku bilang nggak apa-apa, padahal hancur di dalam. 🖤",
+    "text": "Dia yang sering membuat hatimu terbalut sendu, tidak sepantasnya untuk mendapatkan cintamu. Karena dia tidak pernah tau, betapa berharganya dirimu",
     "categoryId": 12
   },
   {
     "id": 71,
-    "text": "Kita saling cinta tapi saling bikin trauma. 💔",
+    "text": "Aku mencintainya. Dan kusadari, tak seharusnya rasa ini kupelihara di hati. Karena kutahu, bukan aku yang dia mau",
     "categoryId": 12
   },
   {
     "id": 72,
-    "text": "Kamu bikin aku sakit, tapi aku tetep minta kamu jangan pergi. 😔",
+    "text": "Jika mencintaimu memang suatu kesalahan, maka, aku tak mengerti lagi apa itu kebenaran",
     "categoryId": 12
   },
   {
     "id": 73,
-    "text": "Kita nggak pernah selesai sama masalah yang sama. 🥀",
+    "text": "Rasanya sungguh menyakitkan, saat tahu orang yang namanya kusebut dalam doa, ternyata menyebut nama orang lain dalam doannya",
     "categoryId": 12
   },
   {
     "id": 74,
-    "text": "Aku tau aku harus lepas, tapi hati ini nyangkut. 🖤",
+    "text": "Tuhan, maafkan aku. Aku terlalu sering berbohong dengan berkata: aku baik-baik saja!",
     "categoryId": 12
   },
   {
     "id": 75,
-    "text": "Kamu selalu menang, karena aku selalu ngalah. 💔",
+    "text": "Aku tidak peduli meletus atau tidaknya balon hijau, karena saat ini hatiku sudah sangat kacau",
     "categoryId": 12
   },
   {
     "id": 76,
-    "text": "Kita lebih sering nyakitin daripada nyenengin. 😞",
+    "text": "Kejepit ritsleting telah mengajarkanku, bahwasanya ada hal yang lebih menyakitkan dari sekedar patah hati",
     "categoryId": 12
   },
   {
     "id": 77,
-    "text": "Hubungan ini kayak badai yang nggak reda. 🌪️",
+    "text": "Rasanya sungguh menyakitkan. Ketika aku dan dia sama-sama memiliki rasa, tapi tidak ditakdirkan untuk bisa bersama",
     "categoryId": 12
   },
   {
     "id": 78,
-    "text": "Aku rela sakit asal kamu tetap di sini. 🥀",
+    "text": "Cinta yang berkelas, tidak datang dari seorang pemalas",
     "categoryId": 12
   },
   {
     "id": 79,
-    "text": "Kita saling cari, tapi cuma bikin luka baru. 🖤",
+    "text": "Aku menyimpanmu dalam kotak yang kunamakan kenangan. Dingin, lusuh dan tak akan kuingat lagi",
     "categoryId": 12
   },
   {
     "id": 80,
-    "text": "Kamu nggak pernah ngerti rasanya jadi aku. 💔",
+    "text": "Hatiku cemburu melihatmu bersama dia. Namun suara dalam kepalaku selalu berkata: Memangnya kamu siapa?",
     "categoryId": 12
   },
   {
     "id": 81,
-    "text": "Kita saling candu sama drama ini. 😔",
+    "text": "Percinta pada orang dewasa: penuh lika-liku dan air mata. Percintaan pada remaja: block, unblock, block, unblock",
     "categoryId": 12
   },
   {
     "id": 82,
-    "text": "Aku capek tapi nggak bisa berhenti. 🥀",
+    "text": "Dia yang main-main kamu perjuangkan. Aku yang serius malah kamu sia-siakan",
     "categoryId": 12
   },
   {
     "id": 83,
-    "text": "Kita saling butuh tapi saling ngerusak. 🖤",
+    "text": "Aku tidak melupakan, tapi hanya menjaga jarak dengan kenangan",
     "categoryId": 12
   },
   {
     "id": 84,
-    "text": "Kamu bikin aku senyum dan nangis di hari yang sama. 💔",
+    "text": "Aku mah santai aja walaupun ga ada yang melirik. Setidaknya masih ada nyamuk yang selalu menganggapku menarik",
     "categoryId": 12
   },
   {
     "id": 85,
-    "text": "Kita kayak api dan bensin, indah tapi berbahaya. 🔥",
-    "categoryId": 12
-  },
-  {
-    "id": 86,
-    "text": "Aku tau ini toxic, tapi hati ini selalu balik ke kamu. 😞",
-    "categoryId": 12
-  },
-  {
-    "id": 87,
-    "text": "Kita saling genggam tapi saling lukai. 🥀",
-    "categoryId": 12
-  },
-  {
-    "id": 88,
-    "text": "Hubungan ini bikin sakit tapi nggak bisa dilepas. 🖤",
-    "categoryId": 12
-  },
-  {
-    "id": 89,
-    "text": "Kamu pergi bikin hampa, kamu datang bikin luka. 💔",
-    "categoryId": 12
-  },
-  {
-    "id": 90,
-    "text": "Kita saling jatuh tapi nggak pernah saling selamatin. 😔",
-    "categoryId": 12
-  },
-  {
-    "id": 91,
-    "text": "Aku tau aku salah terus bertahan, tapi cinta ini buta. 🥀",
-    "categoryId": 12
-  },
-  {
-    "id": 92,
-    "text": "Kita saling ikat tapi saling perih. 🖤",
-    "categoryId": 12
-  },
-  {
-    "id": 93,
-    "text": "Kamu datang bawa bahagia palsu, pergi bawa nyeri asli. 💔",
-    "categoryId": 12
-  },
-  {
-    "id": 94,
-    "text": "Kita bukan saling mencintai, kita saling menghancurkan perlahan. 😞",
+    "text": "Tuhan, jika nanti aku jatuh cinta lagi, izinkan cintaku berlabuh pada orang yang bisa kumiliki. Sebab patah hati bukanlah episode menyenangkan yang ingin kutemui kembali",
     "categoryId": 12
   }
 ]
